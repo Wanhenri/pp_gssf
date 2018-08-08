@@ -1,0 +1,2802 @@
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2013122912.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2013122912.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2013123000.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2013123000.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2013123012.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2013123012.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2013123100.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2013123100.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2013123112.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2013123112.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010100.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010100.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+241:38747552:d=2014010112:APCP:surface:0-3 hour acc fcst:
+169:27072525:d=2014010112:APCP:surface:0-6 hour acc fcst:
+266:41491728:d=2014010112:APCP:surface:6-9 hour acc fcst:
+37:5486123:d=2014010112:APCP:surface:6-12 hour acc fcst:
+100:15290700:d=2014010112:APCP:surface:12-15 hour acc fcst:
+122:19299920:d=2014010112:APCP:surface:12-18 hour acc fcst:
+181:30286942:d=2014010112:APCP:surface:18-21 hour acc fcst:
+158:24864653:d=2014010112:APCP:surface:18-24 hour acc fcst:
+254:42255082:d=2014010112:APCP:surface:24-27 hour acc fcst:
+229:37476143:d=2014010112:APCP:surface:24-30 hour acc fcst:
+52:7825924:d=2014010112:APCP:surface:30-33 hour acc fcst:
+232:38113342:d=2014010112:APCP:surface:30-36 hour acc fcst:
+292:48053865:d=2014010112:APCP:surface:36-39 hour acc fcst:
+107:16853138:d=2014010112:APCP:surface:36-42 hour acc fcst:
+292:48384255:d=2014010112:APCP:surface:42-45 hour acc fcst:
+287:47144473:d=2014010112:APCP:surface:42-48 hour acc fcst:
+228:37060732:d=2014010112:APCP:surface:48-51 hour acc fcst:
+260:42677370:d=2014010112:APCP:surface:48-54 hour acc fcst:
+271:44156439:d=2014010112:APCP:surface:54-57 hour acc fcst:
+245:39708530:d=2014010112:APCP:surface:54-60 hour acc fcst:
+173:29146018:d=2014010112:APCP:surface:60-63 hour acc fcst:
+143:22560419:d=2014010112:APCP:surface:60-66 hour acc fcst:
+129:20044689:d=2014010112:APCP:surface:66-69 hour acc fcst:
+192:30981745:d=2014010112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010112:APCP:surface:0-3 hour acc fcst:
+2:60389:d=2014010112:APCP:surface:0-6 hour acc fcst:
+3:133582:d=2014010112:APCP:surface:6-9 hour acc fcst:
+4:252128:d=2014010112:APCP:surface:6-12 hour acc fcst:
+5:323277:d=2014010112:APCP:surface:12-15 hour acc fcst:
+6:440500:d=2014010112:APCP:surface:12-18 hour acc fcst:
+7:510573:d=2014010112:APCP:surface:18-21 hour acc fcst:
+8:568165:d=2014010112:APCP:surface:18-24 hour acc fcst:
+9:638656:d=2014010112:APCP:surface:24-27 hour acc fcst:
+10:696736:d=2014010112:APCP:surface:24-30 hour acc fcst:
+11:767800:d=2014010112:APCP:surface:30-33 hour acc fcst:
+12:885721:d=2014010112:APCP:surface:30-36 hour acc fcst:
+13:955916:d=2014010112:APCP:surface:36-39 hour acc fcst:
+14:1012062:d=2014010112:APCP:surface:36-42 hour acc fcst:
+15:1080616:d=2014010112:APCP:surface:42-45 hour acc fcst:
+16:1137003:d=2014010112:APCP:surface:42-48 hour acc fcst:
+17:1206427:d=2014010112:APCP:surface:48-51 hour acc fcst:
+18:1264060:d=2014010112:APCP:surface:48-54 hour acc fcst:
+19:1334551:d=2014010112:APCP:surface:54-57 hour acc fcst:
+20:1392270:d=2014010112:APCP:surface:54-60 hour acc fcst:
+21:1461871:d=2014010112:APCP:surface:60-63 hour acc fcst:
+22:1517337:d=2014010112:APCP:surface:60-66 hour acc fcst:
+23:1584892:d=2014010112:APCP:surface:66-69 hour acc fcst:
+24:1698533:d=2014010112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010112:APCP:surface:0-3 hour acc fcst:
+2:357593:d=2014010112:APCP:surface:3-6 hour acc fcst:
+3:682696:d=2014010112:APCP:surface:6-9 hour acc fcst:
+4:1137759:d=2014010112:APCP:surface:9-12 hour acc fcst:
+5:1462862:d=2014010112:APCP:surface:12-15 hour acc fcst:
+6:1885435:d=2014010112:APCP:surface:15-18 hour acc fcst:
+7:2210538:d=2014010112:APCP:surface:18-21 hour acc fcst:
+8:2535641:d=2014010112:APCP:surface:21-24 hour acc fcst:
+9:2893234:d=2014010112:APCP:surface:24-27 hour acc fcst:
+10:3250827:d=2014010112:APCP:surface:27-30 hour acc fcst:
+11:3575930:d=2014010112:APCP:surface:30-33 hour acc fcst:
+12:3998503:d=2014010112:APCP:surface:33-36 hour acc fcst:
+13:4323606:d=2014010112:APCP:surface:36-39 hour acc fcst:
+14:4648709:d=2014010112:APCP:surface:39-42 hour acc fcst:
+15:4973812:d=2014010112:APCP:surface:42-45 hour acc fcst:
+16:5298915:d=2014010112:APCP:surface:45-48 hour acc fcst:
+17:5656508:d=2014010112:APCP:surface:48-51 hour acc fcst:
+18:6014101:d=2014010112:APCP:surface:51-54 hour acc fcst:
+19:6371694:d=2014010112:APCP:surface:54-57 hour acc fcst:
+20:6729287:d=2014010112:APCP:surface:57-60 hour acc fcst:
+21:7086880:d=2014010112:APCP:surface:60-63 hour acc fcst:
+22:7411983:d=2014010112:APCP:surface:63-66 hour acc fcst:
+23:7704596:d=2014010112:APCP:surface:66-69 hour acc fcst:
+24:8127169:d=2014010112:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.20s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.08s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010200.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010200.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+190:31108632:d=2014010212:APCP:surface:0-3 hour acc fcst:
+156:24147130:d=2014010212:APCP:surface:0-6 hour acc fcst:
+267:42999666:d=2014010212:APCP:surface:6-9 hour acc fcst:
+238:38454959:d=2014010212:APCP:surface:6-12 hour acc fcst:
+203:32576780:d=2014010212:APCP:surface:12-15 hour acc fcst:
+291:46957069:d=2014010212:APCP:surface:12-18 hour acc fcst:
+173:27355187:d=2014010212:APCP:surface:18-21 hour acc fcst:
+85:13313575:d=2014010212:APCP:surface:18-24 hour acc fcst:
+215:33811658:d=2014010212:APCP:surface:24-27 hour acc fcst:
+77:12133923:d=2014010212:APCP:surface:24-30 hour acc fcst:
+182:29778400:d=2014010212:APCP:surface:30-33 hour acc fcst:
+264:42799707:d=2014010212:APCP:surface:30-36 hour acc fcst:
+171:27972772:d=2014010212:APCP:surface:36-39 hour acc fcst:
+208:32804039:d=2014010212:APCP:surface:36-42 hour acc fcst:
+218:34685590:d=2014010212:APCP:surface:42-45 hour acc fcst:
+277:45629816:d=2014010212:APCP:surface:42-48 hour acc fcst:
+169:27175354:d=2014010212:APCP:surface:48-51 hour acc fcst:
+211:35029690:d=2014010212:APCP:surface:48-54 hour acc fcst:
+258:41415496:d=2014010212:APCP:surface:54-57 hour acc fcst:
+243:39265079:d=2014010212:APCP:surface:54-60 hour acc fcst:
+152:23709362:d=2014010212:APCP:surface:60-63 hour acc fcst:
+204:33739917:d=2014010212:APCP:surface:60-66 hour acc fcst:
+267:43432111:d=2014010212:APCP:surface:66-69 hour acc fcst:
+290:47674322:d=2014010212:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010212:APCP:surface:0-3 hour acc fcst:
+2:122403:d=2014010212:APCP:surface:0-6 hour acc fcst:
+3:196029:d=2014010212:APCP:surface:6-9 hour acc fcst:
+4:254629:d=2014010212:APCP:surface:6-12 hour acc fcst:
+5:326066:d=2014010212:APCP:surface:12-15 hour acc fcst:
+6:383329:d=2014010212:APCP:surface:12-18 hour acc fcst:
+7:453421:d=2014010212:APCP:surface:18-21 hour acc fcst:
+8:510282:d=2014010212:APCP:surface:18-24 hour acc fcst:
+9:580014:d=2014010212:APCP:surface:24-27 hour acc fcst:
+10:637832:d=2014010212:APCP:surface:24-30 hour acc fcst:
+11:708405:d=2014010212:APCP:surface:30-33 hour acc fcst:
+12:765979:d=2014010212:APCP:surface:30-36 hour acc fcst:
+13:835458:d=2014010212:APCP:surface:36-39 hour acc fcst:
+14:949743:d=2014010212:APCP:surface:36-42 hour acc fcst:
+15:1017823:d=2014010212:APCP:surface:42-45 hour acc fcst:
+16:1131508:d=2014010212:APCP:surface:42-48 hour acc fcst:
+17:1199592:d=2014010212:APCP:surface:48-51 hour acc fcst:
+18:1314466:d=2014010212:APCP:surface:48-54 hour acc fcst:
+19:1383499:d=2014010212:APCP:surface:54-57 hour acc fcst:
+20:1440025:d=2014010212:APCP:surface:54-60 hour acc fcst:
+21:1508415:d=2014010212:APCP:surface:60-63 hour acc fcst:
+22:1621937:d=2014010212:APCP:surface:60-66 hour acc fcst:
+23:1689971:d=2014010212:APCP:surface:66-69 hour acc fcst:
+24:1804905:d=2014010212:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010212:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014010212:APCP:surface:3-6 hour acc fcst:
+3:780166:d=2014010212:APCP:surface:6-9 hour acc fcst:
+4:1105269:d=2014010212:APCP:surface:9-12 hour acc fcst:
+5:1430372:d=2014010212:APCP:surface:12-15 hour acc fcst:
+6:1755475:d=2014010212:APCP:surface:15-18 hour acc fcst:
+7:2113068:d=2014010212:APCP:surface:18-21 hour acc fcst:
+8:2470661:d=2014010212:APCP:surface:21-24 hour acc fcst:
+9:2795764:d=2014010212:APCP:surface:24-27 hour acc fcst:
+10:3120867:d=2014010212:APCP:surface:27-30 hour acc fcst:
+11:3445970:d=2014010212:APCP:surface:30-33 hour acc fcst:
+12:3771073:d=2014010212:APCP:surface:33-36 hour acc fcst:
+13:4096176:d=2014010212:APCP:surface:36-39 hour acc fcst:
+14:4551239:d=2014010212:APCP:surface:39-42 hour acc fcst:
+15:4876342:d=2014010212:APCP:surface:42-45 hour acc fcst:
+16:5298915:d=2014010212:APCP:surface:45-48 hour acc fcst:
+17:5656508:d=2014010212:APCP:surface:48-51 hour acc fcst:
+18:6079081:d=2014010212:APCP:surface:51-54 hour acc fcst:
+19:6404184:d=2014010212:APCP:surface:54-57 hour acc fcst:
+20:6761777:d=2014010212:APCP:surface:57-60 hour acc fcst:
+21:7086880:d=2014010212:APCP:surface:60-63 hour acc fcst:
+22:7509453:d=2014010212:APCP:surface:63-66 hour acc fcst:
+23:7834556:d=2014010212:APCP:surface:66-69 hour acc fcst:
+24:8257129:d=2014010212:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.21s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.07s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010300.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010300.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+211:34762513:d=2014010312:APCP:surface:0-3 hour acc fcst:
+178:27163699:d=2014010312:APCP:surface:0-6 hour acc fcst:
+194:30361759:d=2014010312:APCP:surface:6-9 hour acc fcst:
+150:23464121:d=2014010312:APCP:surface:6-12 hour acc fcst:
+207:33350286:d=2014010312:APCP:surface:12-15 hour acc fcst:
+124:19452330:d=2014010312:APCP:surface:12-18 hour acc fcst:
+181:28919244:d=2014010312:APCP:surface:18-21 hour acc fcst:
+132:21748194:d=2014010312:APCP:surface:18-24 hour acc fcst:
+118:18977301:d=2014010312:APCP:surface:24-27 hour acc fcst:
+78:12241495:d=2014010312:APCP:surface:24-30 hour acc fcst:
+246:39570334:d=2014010312:APCP:surface:30-33 hour acc fcst:
+115:18136998:d=2014010312:APCP:surface:30-36 hour acc fcst:
+295:47823806:d=2014010312:APCP:surface:36-39 hour acc fcst:
+253:39913527:d=2014010312:APCP:surface:36-42 hour acc fcst:
+258:41202917:d=2014010312:APCP:surface:42-45 hour acc fcst:
+145:23154154:d=2014010312:APCP:surface:42-48 hour acc fcst:
+71:11149759:d=2014010312:APCP:surface:48-51 hour acc fcst:
+292:47951192:d=2014010312:APCP:surface:48-54 hour acc fcst:
+233:37525298:d=2014010312:APCP:surface:54-57 hour acc fcst:
+228:36965732:d=2014010312:APCP:surface:54-60 hour acc fcst:
+247:39604394:d=2014010312:APCP:surface:60-63 hour acc fcst:
+92:14323241:d=2014010312:APCP:surface:60-66 hour acc fcst:
+244:39454053:d=2014010312:APCP:surface:66-69 hour acc fcst:
+229:38008255:d=2014010312:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010312:APCP:surface:0-3 hour acc fcst:
+2:120944:d=2014010312:APCP:surface:0-6 hour acc fcst:
+3:193620:d=2014010312:APCP:surface:6-9 hour acc fcst:
+4:251367:d=2014010312:APCP:surface:6-12 hour acc fcst:
+5:321497:d=2014010312:APCP:surface:12-15 hour acc fcst:
+6:437463:d=2014010312:APCP:surface:12-18 hour acc fcst:
+7:507035:d=2014010312:APCP:surface:18-21 hour acc fcst:
+8:622737:d=2014010312:APCP:surface:18-24 hour acc fcst:
+9:692232:d=2014010312:APCP:surface:24-27 hour acc fcst:
+10:808956:d=2014010312:APCP:surface:24-30 hour acc fcst:
+11:878955:d=2014010312:APCP:surface:30-33 hour acc fcst:
+12:995258:d=2014010312:APCP:surface:30-36 hour acc fcst:
+13:1064715:d=2014010312:APCP:surface:36-39 hour acc fcst:
+14:1121073:d=2014010312:APCP:surface:36-42 hour acc fcst:
+15:1190203:d=2014010312:APCP:surface:42-45 hour acc fcst:
+16:1306663:d=2014010312:APCP:surface:42-48 hour acc fcst:
+17:1376917:d=2014010312:APCP:surface:48-51 hour acc fcst:
+18:1494684:d=2014010312:APCP:surface:48-54 hour acc fcst:
+19:1565657:d=2014010312:APCP:surface:54-57 hour acc fcst:
+20:1683539:d=2014010312:APCP:surface:54-60 hour acc fcst:
+21:1753917:d=2014010312:APCP:surface:60-63 hour acc fcst:
+22:1810822:d=2014010312:APCP:surface:60-66 hour acc fcst:
+23:1880255:d=2014010312:APCP:surface:66-69 hour acc fcst:
+24:1996304:d=2014010312:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010312:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014010312:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014010312:APCP:surface:6-9 hour acc fcst:
+4:1072779:d=2014010312:APCP:surface:9-12 hour acc fcst:
+5:1397882:d=2014010312:APCP:surface:12-15 hour acc fcst:
+6:1852945:d=2014010312:APCP:surface:15-18 hour acc fcst:
+7:2178048:d=2014010312:APCP:surface:18-21 hour acc fcst:
+8:2600621:d=2014010312:APCP:surface:21-24 hour acc fcst:
+9:2958214:d=2014010312:APCP:surface:24-27 hour acc fcst:
+10:3380787:d=2014010312:APCP:surface:27-30 hour acc fcst:
+11:3705890:d=2014010312:APCP:surface:30-33 hour acc fcst:
+12:4128463:d=2014010312:APCP:surface:33-36 hour acc fcst:
+13:4453566:d=2014010312:APCP:surface:36-39 hour acc fcst:
+14:4778669:d=2014010312:APCP:surface:39-42 hour acc fcst:
+15:5103772:d=2014010312:APCP:surface:42-45 hour acc fcst:
+16:5526345:d=2014010312:APCP:surface:45-48 hour acc fcst:
+17:5851448:d=2014010312:APCP:surface:48-51 hour acc fcst:
+18:6274021:d=2014010312:APCP:surface:51-54 hour acc fcst:
+19:6599124:d=2014010312:APCP:surface:54-57 hour acc fcst:
+20:7021697:d=2014010312:APCP:surface:57-60 hour acc fcst:
+21:7346800:d=2014010312:APCP:surface:60-63 hour acc fcst:
+22:7671903:d=2014010312:APCP:surface:63-66 hour acc fcst:
+23:7997006:d=2014010312:APCP:surface:66-69 hour acc fcst:
+24:8419579:d=2014010312:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.21s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.09s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010400.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010400.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+281:45078873:d=2014010412:APCP:surface:0-3 hour acc fcst:
+275:43749949:d=2014010412:APCP:surface:0-6 hour acc fcst:
+155:23532531:d=2014010412:APCP:surface:6-9 hour acc fcst:
+263:41915368:d=2014010412:APCP:surface:6-12 hour acc fcst:
+223:36253670:d=2014010412:APCP:surface:12-15 hour acc fcst:
+110:18422460:d=2014010412:APCP:surface:12-18 hour acc fcst:
+153:23721986:d=2014010412:APCP:surface:18-21 hour acc fcst:
+85:12579629:d=2014010412:APCP:surface:18-24 hour acc fcst:
+209:33641308:d=2014010412:APCP:surface:24-27 hour acc fcst:
+138:21687577:d=2014010412:APCP:surface:24-30 hour acc fcst:
+138:21560497:d=2014010412:APCP:surface:30-33 hour acc fcst:
+156:25271042:d=2014010412:APCP:surface:30-36 hour acc fcst:
+172:27385180:d=2014010412:APCP:surface:36-39 hour acc fcst:
+160:25728135:d=2014010412:APCP:surface:36-42 hour acc fcst:
+128:20302681:d=2014010412:APCP:surface:42-45 hour acc fcst:
+220:35553449:d=2014010412:APCP:surface:42-48 hour acc fcst:
+172:27715839:d=2014010412:APCP:surface:48-51 hour acc fcst:
+205:32677285:d=2014010412:APCP:surface:48-54 hour acc fcst:
+61:9072262:d=2014010412:APCP:surface:54-57 hour acc fcst:
+254:40624231:d=2014010412:APCP:surface:54-60 hour acc fcst:
+248:40334699:d=2014010412:APCP:surface:60-63 hour acc fcst:
+208:35138674:d=2014010412:APCP:surface:60-66 hour acc fcst:
+235:37414518:d=2014010412:APCP:surface:66-69 hour acc fcst:
+66:9615228:d=2014010412:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010412:APCP:surface:30-36 hour acc fcst:
+2:70666:d=2014010412:APCP:surface:36-39 hour acc fcst:
+3:187377:d=2014010412:APCP:surface:36-42 hour acc fcst:
+4:257327:d=2014010412:APCP:surface:42-45 hour acc fcst:
+5:314762:d=2014010412:APCP:surface:42-48 hour acc fcst:
+6:385276:d=2014010412:APCP:surface:48-51 hour acc fcst:
+7:443856:d=2014010412:APCP:surface:48-54 hour acc fcst:
+8:515250:d=2014010412:APCP:surface:54-57 hour acc fcst:
+9:632955:d=2014010412:APCP:surface:54-60 hour acc fcst:
+10:703380:d=2014010412:APCP:surface:60-63 hour acc fcst:
+11:760470:d=2014010412:APCP:surface:60-66 hour acc fcst:
+12:830306:d=2014010412:APCP:surface:66-69 hour acc fcst:
+13:947228:d=2014010412:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010412:APCP:surface:30-36 hour acc fcst:
+2:357593:d=2014010412:APCP:surface:36-39 hour acc fcst:
+3:780166:d=2014010412:APCP:surface:39-42 hour acc fcst:
+4:1137759:d=2014010412:APCP:surface:42-45 hour acc fcst:
+5:1462862:d=2014010412:APCP:surface:45-48 hour acc fcst:
+6:1787965:d=2014010412:APCP:surface:48-51 hour acc fcst:
+7:2145558:d=2014010412:APCP:surface:51-54 hour acc fcst:
+8:2503151:d=2014010412:APCP:surface:54-57 hour acc fcst:
+9:2925724:d=2014010412:APCP:surface:57-60 hour acc fcst:
+10:3250827:d=2014010412:APCP:surface:60-63 hour acc fcst:
+11:3608420:d=2014010412:APCP:surface:63-66 hour acc fcst:
+12:3933523:d=2014010412:APCP:surface:66-69 hour acc fcst:
+13:4356096:d=2014010412:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 3378960 values from 1 variable over 13 timesteps ( 0.12s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 519840 values from 1 variable over 2 timesteps ( 0.09s )
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+1:0:d=2014010112:APCP:surface:6-9 hour acc fcst:
+2:118546:d=2014010112:APCP:surface:6-12 hour acc fcst:
+3:189695:d=2014010112:APCP:surface:12-15 hour acc fcst:
+4:306918:d=2014010112:APCP:surface:12-18 hour acc fcst:
+5:376991:d=2014010112:APCP:surface:18-21 hour acc fcst:
+6:434583:d=2014010112:APCP:surface:18-24 hour acc fcst:
+7:505074:d=2014010112:APCP:surface:24-27 hour acc fcst:
+8:563154:d=2014010112:APCP:surface:24-30 hour acc fcst:
+9:634218:d=2014010112:APCP:surface:30-33 hour acc fcst:
+10:752139:d=2014010112:APCP:surface:30-36 hour acc fcst:
+11:822334:d=2014010112:APCP:surface:36-39 hour acc fcst:
+12:878480:d=2014010112:APCP:surface:36-42 hour acc fcst:
+13:947034:d=2014010112:APCP:surface:42-45 hour acc fcst:
+14:1003421:d=2014010112:APCP:surface:42-48 hour acc fcst:
+15:1072845:d=2014010112:APCP:surface:48-51 hour acc fcst:
+16:1130478:d=2014010112:APCP:surface:48-54 hour acc fcst:
+17:1200969:d=2014010112:APCP:surface:54-57 hour acc fcst:
+18:1258688:d=2014010112:APCP:surface:54-60 hour acc fcst:
+19:1328289:d=2014010112:APCP:surface:60-63 hour acc fcst:
+20:1383755:d=2014010112:APCP:surface:60-66 hour acc fcst:
+1:0:d=2014010112:APCP:surface:6-9 hour acc fcst:
+2:455063:d=2014010112:APCP:surface:9-12 hour acc fcst:
+3:780166:d=2014010112:APCP:surface:12-15 hour acc fcst:
+4:1202739:d=2014010112:APCP:surface:15-18 hour acc fcst:
+5:1527842:d=2014010112:APCP:surface:18-21 hour acc fcst:
+6:1852945:d=2014010112:APCP:surface:21-24 hour acc fcst:
+7:2210538:d=2014010112:APCP:surface:24-27 hour acc fcst:
+8:2568131:d=2014010112:APCP:surface:27-30 hour acc fcst:
+9:2893234:d=2014010112:APCP:surface:30-33 hour acc fcst:
+10:3315807:d=2014010112:APCP:surface:33-36 hour acc fcst:
+11:3640910:d=2014010112:APCP:surface:36-39 hour acc fcst:
+12:3966013:d=2014010112:APCP:surface:39-42 hour acc fcst:
+13:4291116:d=2014010112:APCP:surface:42-45 hour acc fcst:
+14:4616219:d=2014010112:APCP:surface:45-48 hour acc fcst:
+15:4973812:d=2014010112:APCP:surface:48-51 hour acc fcst:
+16:5331405:d=2014010112:APCP:surface:51-54 hour acc fcst:
+17:5688998:d=2014010112:APCP:surface:54-57 hour acc fcst:
+18:6046591:d=2014010112:APCP:surface:57-60 hour acc fcst:
+19:6404184:d=2014010112:APCP:surface:60-63 hour acc fcst:
+20:6729287:d=2014010112:APCP:surface:63-66 hour acc fcst:
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 4158720 values from 1 variable over 20 timesteps ( 0.16s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 519840 values from 1 variable over 2 timesteps ( 0.03s )
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+263:43288769:d=2014010512:APCP:surface:0-3 hour acc fcst:
+278:45097709:d=2014010512:APCP:surface:0-6 hour acc fcst:
+274:44378526:d=2014010512:APCP:surface:6-9 hour acc fcst:
+288:47077099:d=2014010512:APCP:surface:6-12 hour acc fcst:
+80:12912809:d=2014010512:APCP:surface:12-15 hour acc fcst:
+253:40873701:d=2014010512:APCP:surface:12-18 hour acc fcst:
+121:18445817:d=2014010512:APCP:surface:18-21 hour acc fcst:
+71:10729445:d=2014010512:APCP:surface:18-24 hour acc fcst:
+260:43675276:d=2014010512:APCP:surface:24-27 hour acc fcst:
+291:48648993:d=2014010512:APCP:surface:24-30 hour acc fcst:
+138:21805358:d=2014010512:APCP:surface:30-33 hour acc fcst:
+242:39524876:d=2014010512:APCP:surface:30-36 hour acc fcst:
+135:21090744:d=2014010512:APCP:surface:36-39 hour acc fcst:
+188:29844344:d=2014010512:APCP:surface:36-42 hour acc fcst:
+185:29736378:d=2014010512:APCP:surface:42-45 hour acc fcst:
+144:22610470:d=2014010512:APCP:surface:42-48 hour acc fcst:
+239:39203973:d=2014010512:APCP:surface:48-51 hour acc fcst:
+274:45179759:d=2014010512:APCP:surface:48-54 hour acc fcst:
+225:36665416:d=2014010512:APCP:surface:54-57 hour acc fcst:
+280:46482528:d=2014010512:APCP:surface:54-60 hour acc fcst:
+230:37876204:d=2014010512:APCP:surface:60-63 hour acc fcst:
+177:28569066:d=2014010512:APCP:surface:60-66 hour acc fcst:
+208:33313887:d=2014010512:APCP:surface:66-69 hour acc fcst:
+212:34147967:d=2014010512:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010512:APCP:surface:0-3 hour acc fcst:
+2:122060:d=2014010512:APCP:surface:0-6 hour acc fcst:
+3:195967:d=2014010512:APCP:surface:6-9 hour acc fcst:
+4:315138:d=2014010512:APCP:surface:6-12 hour acc fcst:
+5:386827:d=2014010512:APCP:surface:12-15 hour acc fcst:
+6:444958:d=2014010512:APCP:surface:12-18 hour acc fcst:
+7:516169:d=2014010512:APCP:surface:18-21 hour acc fcst:
+8:575240:d=2014010512:APCP:surface:18-24 hour acc fcst:
+9:647272:d=2014010512:APCP:surface:24-27 hour acc fcst:
+10:766861:d=2014010512:APCP:surface:24-30 hour acc fcst:
+11:838988:d=2014010512:APCP:surface:30-33 hour acc fcst:
+12:957329:d=2014010512:APCP:surface:30-36 hour acc fcst:
+13:1028260:d=2014010512:APCP:surface:36-39 hour acc fcst:
+14:1145400:d=2014010512:APCP:surface:36-42 hour acc fcst:
+15:1216028:d=2014010512:APCP:surface:42-45 hour acc fcst:
+16:1274015:d=2014010512:APCP:surface:42-48 hour acc fcst:
+17:1345024:d=2014010512:APCP:surface:48-51 hour acc fcst:
+18:1403746:d=2014010512:APCP:surface:48-54 hour acc fcst:
+19:1475334:d=2014010512:APCP:surface:54-57 hour acc fcst:
+20:1593340:d=2014010512:APCP:surface:54-60 hour acc fcst:
+21:1664254:d=2014010512:APCP:surface:60-63 hour acc fcst:
+22:1722082:d=2014010512:APCP:surface:60-66 hour acc fcst:
+23:1792835:d=2014010512:APCP:surface:66-69 hour acc fcst:
+24:1851064:d=2014010512:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010512:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014010512:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014010512:APCP:surface:6-9 hour acc fcst:
+4:1202739:d=2014010512:APCP:surface:9-12 hour acc fcst:
+5:1560332:d=2014010512:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014010512:APCP:surface:15-18 hour acc fcst:
+7:2275518:d=2014010512:APCP:surface:18-21 hour acc fcst:
+8:2633111:d=2014010512:APCP:surface:21-24 hour acc fcst:
+9:2958214:d=2014010512:APCP:surface:24-27 hour acc fcst:
+10:3380787:d=2014010512:APCP:surface:27-30 hour acc fcst:
+11:3705890:d=2014010512:APCP:surface:30-33 hour acc fcst:
+12:4128463:d=2014010512:APCP:surface:33-36 hour acc fcst:
+13:4453566:d=2014010512:APCP:surface:36-39 hour acc fcst:
+14:4908629:d=2014010512:APCP:surface:39-42 hour acc fcst:
+15:5233732:d=2014010512:APCP:surface:42-45 hour acc fcst:
+16:5558835:d=2014010512:APCP:surface:45-48 hour acc fcst:
+17:5883938:d=2014010512:APCP:surface:48-51 hour acc fcst:
+18:6209041:d=2014010512:APCP:surface:51-54 hour acc fcst:
+19:6534144:d=2014010512:APCP:surface:54-57 hour acc fcst:
+20:6989207:d=2014010512:APCP:surface:57-60 hour acc fcst:
+21:7346800:d=2014010512:APCP:surface:60-63 hour acc fcst:
+22:7671903:d=2014010512:APCP:surface:63-66 hour acc fcst:
+23:8029496:d=2014010512:APCP:surface:66-69 hour acc fcst:
+24:8387089:d=2014010512:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.24s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.10s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010600.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010600.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+136:21553090:d=2014010612:APCP:surface:0-3 hour acc fcst:
+192:30862792:d=2014010612:APCP:surface:0-6 hour acc fcst:
+256:40786037:d=2014010612:APCP:surface:6-9 hour acc fcst:
+238:38177531:d=2014010612:APCP:surface:6-12 hour acc fcst:
+211:33709458:d=2014010612:APCP:surface:12-15 hour acc fcst:
+212:34498412:d=2014010612:APCP:surface:12-18 hour acc fcst:
+141:22463756:d=2014010612:APCP:surface:18-21 hour acc fcst:
+192:31847200:d=2014010612:APCP:surface:18-24 hour acc fcst:
+251:40274040:d=2014010612:APCP:surface:24-27 hour acc fcst:
+256:41806335:d=2014010612:APCP:surface:24-30 hour acc fcst:
+200:32285558:d=2014010612:APCP:surface:30-33 hour acc fcst:
+239:38153631:d=2014010612:APCP:surface:30-36 hour acc fcst:
+243:38504978:d=2014010612:APCP:surface:36-39 hour acc fcst:
+224:35183940:d=2014010612:APCP:surface:36-42 hour acc fcst:
+103:15966118:d=2014010612:APCP:surface:42-45 hour acc fcst:
+229:37140651:d=2014010612:APCP:surface:42-48 hour acc fcst:
+175:27963908:d=2014010612:APCP:surface:48-51 hour acc fcst:
+198:32329988:d=2014010612:APCP:surface:48-54 hour acc fcst:
+190:30515793:d=2014010612:APCP:surface:54-57 hour acc fcst:
+77:11620640:d=2014010612:APCP:surface:54-60 hour acc fcst:
+280:45198237:d=2014010612:APCP:surface:60-63 hour acc fcst:
+167:27047360:d=2014010612:APCP:surface:60-66 hour acc fcst:
+260:41929309:d=2014010612:APCP:surface:66-69 hour acc fcst:
+202:32390043:d=2014010612:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010612:APCP:surface:0-3 hour acc fcst:
+2:123766:d=2014010612:APCP:surface:0-6 hour acc fcst:
+3:198657:d=2014010612:APCP:surface:6-9 hour acc fcst:
+4:258511:d=2014010612:APCP:surface:6-12 hour acc fcst:
+5:331187:d=2014010612:APCP:surface:12-15 hour acc fcst:
+6:450415:d=2014010612:APCP:surface:12-18 hour acc fcst:
+7:522467:d=2014010612:APCP:surface:18-21 hour acc fcst:
+8:642148:d=2014010612:APCP:surface:18-24 hour acc fcst:
+9:714546:d=2014010612:APCP:surface:24-27 hour acc fcst:
+10:834504:d=2014010612:APCP:surface:24-30 hour acc fcst:
+11:906476:d=2014010612:APCP:surface:30-33 hour acc fcst:
+12:965513:d=2014010612:APCP:surface:30-36 hour acc fcst:
+13:1037163:d=2014010612:APCP:surface:36-39 hour acc fcst:
+14:1095775:d=2014010612:APCP:surface:36-42 hour acc fcst:
+15:1167136:d=2014010612:APCP:surface:42-45 hour acc fcst:
+16:1226058:d=2014010612:APCP:surface:42-48 hour acc fcst:
+17:1297812:d=2014010612:APCP:surface:48-51 hour acc fcst:
+18:1417209:d=2014010612:APCP:surface:48-54 hour acc fcst:
+19:1489205:d=2014010612:APCP:surface:54-57 hour acc fcst:
+20:1548794:d=2014010612:APCP:surface:54-60 hour acc fcst:
+21:1620849:d=2014010612:APCP:surface:60-63 hour acc fcst:
+22:1740421:d=2014010612:APCP:surface:60-66 hour acc fcst:
+23:1812467:d=2014010612:APCP:surface:66-69 hour acc fcst:
+24:1871653:d=2014010612:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010612:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014010612:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014010612:APCP:surface:6-9 hour acc fcst:
+4:1072779:d=2014010612:APCP:surface:9-12 hour acc fcst:
+5:1430372:d=2014010612:APCP:surface:12-15 hour acc fcst:
+6:1852945:d=2014010612:APCP:surface:15-18 hour acc fcst:
+7:2145558:d=2014010612:APCP:surface:18-21 hour acc fcst:
+8:2568131:d=2014010612:APCP:surface:21-24 hour acc fcst:
+9:2893234:d=2014010612:APCP:surface:24-27 hour acc fcst:
+10:3348297:d=2014010612:APCP:surface:27-30 hour acc fcst:
+11:3705890:d=2014010612:APCP:surface:30-33 hour acc fcst:
+12:4030993:d=2014010612:APCP:surface:33-36 hour acc fcst:
+13:4388586:d=2014010612:APCP:surface:36-39 hour acc fcst:
+14:4746179:d=2014010612:APCP:surface:39-42 hour acc fcst:
+15:5103772:d=2014010612:APCP:surface:42-45 hour acc fcst:
+16:5461365:d=2014010612:APCP:surface:45-48 hour acc fcst:
+17:5786468:d=2014010612:APCP:surface:48-51 hour acc fcst:
+18:6209041:d=2014010612:APCP:surface:51-54 hour acc fcst:
+19:6534144:d=2014010612:APCP:surface:54-57 hour acc fcst:
+20:6891737:d=2014010612:APCP:surface:57-60 hour acc fcst:
+21:7216840:d=2014010612:APCP:surface:60-63 hour acc fcst:
+22:7671903:d=2014010612:APCP:surface:63-66 hour acc fcst:
+23:7997006:d=2014010612:APCP:surface:66-69 hour acc fcst:
+24:8322109:d=2014010612:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.22s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.08s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010700.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010700.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+265:44011502:d=2014010712:APCP:surface:0-3 hour acc fcst:
+231:36125844:d=2014010712:APCP:surface:0-6 hour acc fcst:
+162:25163973:d=2014010712:APCP:surface:6-9 hour acc fcst:
+300:48428839:d=2014010712:APCP:surface:6-12 hour acc fcst:
+244:38547713:d=2014010712:APCP:surface:12-15 hour acc fcst:
+259:40573062:d=2014010712:APCP:surface:12-18 hour acc fcst:
+227:35955554:d=2014010712:APCP:surface:18-21 hour acc fcst:
+193:29462856:d=2014010712:APCP:surface:18-24 hour acc fcst:
+235:37891713:d=2014010712:APCP:surface:24-27 hour acc fcst:
+258:42010245:d=2014010712:APCP:surface:24-30 hour acc fcst:
+252:40923671:d=2014010712:APCP:surface:30-33 hour acc fcst:
+265:42460743:d=2014010712:APCP:surface:30-36 hour acc fcst:
+204:32071098:d=2014010712:APCP:surface:36-39 hour acc fcst:
+231:37090057:d=2014010712:APCP:surface:36-42 hour acc fcst:
+291:46626150:d=2014010712:APCP:surface:42-45 hour acc fcst:
+187:29786564:d=2014010712:APCP:surface:42-48 hour acc fcst:
+149:23279514:d=2014010712:APCP:surface:48-51 hour acc fcst:
+201:32833039:d=2014010712:APCP:surface:48-54 hour acc fcst:
+150:23173802:d=2014010712:APCP:surface:54-57 hour acc fcst:
+95:14917441:d=2014010712:APCP:surface:54-60 hour acc fcst:
+265:44255709:d=2014010712:APCP:surface:60-63 hour acc fcst:
+144:23382721:d=2014010712:APCP:surface:60-66 hour acc fcst:
+56:8768526:d=2014010712:APCP:surface:66-69 hour acc fcst:
+200:32312741:d=2014010712:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010712:APCP:surface:0-3 hour acc fcst:
+2:62420:d=2014010712:APCP:surface:0-6 hour acc fcst:
+3:137601:d=2014010712:APCP:surface:6-9 hour acc fcst:
+4:197737:d=2014010712:APCP:surface:6-12 hour acc fcst:
+5:271001:d=2014010712:APCP:surface:12-15 hour acc fcst:
+6:330392:d=2014010712:APCP:surface:12-18 hour acc fcst:
+7:402764:d=2014010712:APCP:surface:18-21 hour acc fcst:
+8:462574:d=2014010712:APCP:surface:18-24 hour acc fcst:
+9:535425:d=2014010712:APCP:surface:24-27 hour acc fcst:
+10:655976:d=2014010712:APCP:surface:24-30 hour acc fcst:
+11:728872:d=2014010712:APCP:surface:30-33 hour acc fcst:
+12:849631:d=2014010712:APCP:surface:30-36 hour acc fcst:
+13:921837:d=2014010712:APCP:surface:36-39 hour acc fcst:
+14:980872:d=2014010712:APCP:surface:36-42 hour acc fcst:
+15:1052753:d=2014010712:APCP:surface:42-45 hour acc fcst:
+16:1172948:d=2014010712:APCP:surface:42-48 hour acc fcst:
+17:1244784:d=2014010712:APCP:surface:48-51 hour acc fcst:
+18:1365827:d=2014010712:APCP:surface:48-54 hour acc fcst:
+19:1438570:d=2014010712:APCP:surface:54-57 hour acc fcst:
+20:1560366:d=2014010712:APCP:surface:54-60 hour acc fcst:
+21:1633429:d=2014010712:APCP:surface:60-63 hour acc fcst:
+22:1754964:d=2014010712:APCP:surface:60-66 hour acc fcst:
+23:1827984:d=2014010712:APCP:surface:66-69 hour acc fcst:
+24:1887813:d=2014010712:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010712:APCP:surface:0-3 hour acc fcst:
+2:325103:d=2014010712:APCP:surface:3-6 hour acc fcst:
+3:682696:d=2014010712:APCP:surface:6-9 hour acc fcst:
+4:1040289:d=2014010712:APCP:surface:9-12 hour acc fcst:
+5:1365392:d=2014010712:APCP:surface:12-15 hour acc fcst:
+6:1690495:d=2014010712:APCP:surface:15-18 hour acc fcst:
+7:2015598:d=2014010712:APCP:surface:18-21 hour acc fcst:
+8:2340701:d=2014010712:APCP:surface:21-24 hour acc fcst:
+9:2665804:d=2014010712:APCP:surface:24-27 hour acc fcst:
+10:3088377:d=2014010712:APCP:surface:27-30 hour acc fcst:
+11:3413480:d=2014010712:APCP:surface:30-33 hour acc fcst:
+12:3836053:d=2014010712:APCP:surface:33-36 hour acc fcst:
+13:4161156:d=2014010712:APCP:surface:36-39 hour acc fcst:
+14:4486259:d=2014010712:APCP:surface:39-42 hour acc fcst:
+15:4843852:d=2014010712:APCP:surface:42-45 hour acc fcst:
+16:5266425:d=2014010712:APCP:surface:45-48 hour acc fcst:
+17:5591528:d=2014010712:APCP:surface:48-51 hour acc fcst:
+18:6014101:d=2014010712:APCP:surface:51-54 hour acc fcst:
+19:6339204:d=2014010712:APCP:surface:54-57 hour acc fcst:
+20:6761777:d=2014010712:APCP:surface:57-60 hour acc fcst:
+21:7119370:d=2014010712:APCP:surface:60-63 hour acc fcst:
+22:7541943:d=2014010712:APCP:surface:63-66 hour acc fcst:
+23:7899536:d=2014010712:APCP:surface:66-69 hour acc fcst:
+24:8257129:d=2014010712:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.20s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.08s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010800.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010800.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+278:44186019:d=2014010812:APCP:surface:0-3 hour acc fcst:
+302:48878720:d=2014010812:APCP:surface:0-6 hour acc fcst:
+174:28293369:d=2014010812:APCP:surface:6-9 hour acc fcst:
+176:27505266:d=2014010812:APCP:surface:6-12 hour acc fcst:
+179:28155942:d=2014010812:APCP:surface:12-15 hour acc fcst:
+157:25204490:d=2014010812:APCP:surface:12-18 hour acc fcst:
+250:41238532:d=2014010812:APCP:surface:18-21 hour acc fcst:
+247:40861357:d=2014010812:APCP:surface:18-24 hour acc fcst:
+254:41767409:d=2014010812:APCP:surface:24-27 hour acc fcst:
+198:32585232:d=2014010812:APCP:surface:24-30 hour acc fcst:
+255:41009087:d=2014010812:APCP:surface:30-33 hour acc fcst:
+215:33700785:d=2014010812:APCP:surface:30-36 hour acc fcst:
+86:12947250:d=2014010812:APCP:surface:36-39 hour acc fcst:
+129:20143194:d=2014010812:APCP:surface:36-42 hour acc fcst:
+162:25813274:d=2014010812:APCP:surface:42-45 hour acc fcst:
+245:40029315:d=2014010812:APCP:surface:42-48 hour acc fcst:
+169:27812604:d=2014010812:APCP:surface:48-51 hour acc fcst:
+256:40699161:d=2014010812:APCP:surface:48-54 hour acc fcst:
+188:30184367:d=2014010812:APCP:surface:54-57 hour acc fcst:
+94:14195120:d=2014010812:APCP:surface:54-60 hour acc fcst:
+252:40358006:d=2014010812:APCP:surface:60-63 hour acc fcst:
+99:15323663:d=2014010812:APCP:surface:60-66 hour acc fcst:
+206:33449681:d=2014010812:APCP:surface:66-69 hour acc fcst:
+205:33258844:d=2014010812:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010812:APCP:surface:24-27 hour acc fcst:
+2:60662:d=2014010812:APCP:surface:24-30 hour acc fcst:
+3:134506:d=2014010812:APCP:surface:30-33 hour acc fcst:
+4:195007:d=2014010812:APCP:surface:30-36 hour acc fcst:
+5:268221:d=2014010812:APCP:surface:36-39 hour acc fcst:
+6:389286:d=2014010812:APCP:surface:36-42 hour acc fcst:
+7:461379:d=2014010812:APCP:surface:42-45 hour acc fcst:
+8:582282:d=2014010812:APCP:surface:42-48 hour acc fcst:
+9:654959:d=2014010812:APCP:surface:48-51 hour acc fcst:
+10:777108:d=2014010812:APCP:surface:48-54 hour acc fcst:
+11:850513:d=2014010812:APCP:surface:54-57 hour acc fcst:
+12:910615:d=2014010812:APCP:surface:54-60 hour acc fcst:
+13:983566:d=2014010812:APCP:surface:60-63 hour acc fcst:
+14:1042192:d=2014010812:APCP:surface:60-66 hour acc fcst:
+15:1113660:d=2014010812:APCP:surface:66-69 hour acc fcst:
+16:1172278:d=2014010812:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010812:APCP:surface:24-27 hour acc fcst:
+2:357593:d=2014010812:APCP:surface:27-30 hour acc fcst:
+3:715186:d=2014010812:APCP:surface:30-33 hour acc fcst:
+4:1072779:d=2014010812:APCP:surface:33-36 hour acc fcst:
+5:1397882:d=2014010812:APCP:surface:36-39 hour acc fcst:
+6:1820455:d=2014010812:APCP:surface:39-42 hour acc fcst:
+7:2145558:d=2014010812:APCP:surface:42-45 hour acc fcst:
+8:2568131:d=2014010812:APCP:surface:45-48 hour acc fcst:
+9:2893234:d=2014010812:APCP:surface:48-51 hour acc fcst:
+10:3315807:d=2014010812:APCP:surface:51-54 hour acc fcst:
+11:3673400:d=2014010812:APCP:surface:54-57 hour acc fcst:
+12:3998503:d=2014010812:APCP:surface:57-60 hour acc fcst:
+13:4323606:d=2014010812:APCP:surface:60-63 hour acc fcst:
+14:4681199:d=2014010812:APCP:surface:63-66 hour acc fcst:
+15:5006302:d=2014010812:APCP:surface:66-69 hour acc fcst:
+16:5363895:d=2014010812:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 4158720 values from 1 variable over 16 timesteps ( 0.15s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 519840 values from 1 variable over 2 timesteps ( 0.07s )
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014010900.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014010900.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+202:32550985:d=2014010912:APCP:surface:0-3 hour acc fcst:
+200:31878911:d=2014010912:APCP:surface:0-6 hour acc fcst:
+288:45882309:d=2014010912:APCP:surface:6-9 hour acc fcst:
+227:35852034:d=2014010912:APCP:surface:6-12 hour acc fcst:
+281:45699046:d=2014010912:APCP:surface:12-15 hour acc fcst:
+233:36144093:d=2014010912:APCP:surface:12-18 hour acc fcst:
+197:31772707:d=2014010912:APCP:surface:18-21 hour acc fcst:
+251:41553131:d=2014010912:APCP:surface:18-24 hour acc fcst:
+220:34764614:d=2014010912:APCP:surface:24-27 hour acc fcst:
+278:45496580:d=2014010912:APCP:surface:24-30 hour acc fcst:
+283:46354017:d=2014010912:APCP:surface:30-33 hour acc fcst:
+169:26761374:d=2014010912:APCP:surface:30-36 hour acc fcst:
+226:35585683:d=2014010912:APCP:surface:36-39 hour acc fcst:
+185:28870226:d=2014010912:APCP:surface:36-42 hour acc fcst:
+78:12684035:d=2014010912:APCP:surface:42-45 hour acc fcst:
+180:28509129:d=2014010912:APCP:surface:42-48 hour acc fcst:
+143:22233399:d=2014010912:APCP:surface:48-51 hour acc fcst:
+185:29093468:d=2014010912:APCP:surface:48-54 hour acc fcst:
+235:37696582:d=2014010912:APCP:surface:54-57 hour acc fcst:
+144:22059674:d=2014010912:APCP:surface:54-60 hour acc fcst:
+209:32973623:d=2014010912:APCP:surface:60-63 hour acc fcst:
+197:31750692:d=2014010912:APCP:surface:60-66 hour acc fcst:
+241:38486552:d=2014010912:APCP:surface:66-69 hour acc fcst:
+142:22223758:d=2014010912:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010912:APCP:surface:0-3 hour acc fcst:
+2:126291:d=2014010912:APCP:surface:0-6 hour acc fcst:
+3:202724:d=2014010912:APCP:surface:6-9 hour acc fcst:
+4:327057:d=2014010912:APCP:surface:6-12 hour acc fcst:
+5:401799:d=2014010912:APCP:surface:12-15 hour acc fcst:
+6:462283:d=2014010912:APCP:surface:12-18 hour acc fcst:
+7:535968:d=2014010912:APCP:surface:18-21 hour acc fcst:
+8:595794:d=2014010912:APCP:surface:18-24 hour acc fcst:
+9:669299:d=2014010912:APCP:surface:24-27 hour acc fcst:
+10:792800:d=2014010912:APCP:surface:24-30 hour acc fcst:
+11:867103:d=2014010912:APCP:surface:30-33 hour acc fcst:
+12:989526:d=2014010912:APCP:surface:30-36 hour acc fcst:
+13:1062602:d=2014010912:APCP:surface:36-39 hour acc fcst:
+14:1121936:d=2014010912:APCP:surface:36-42 hour acc fcst:
+15:1194017:d=2014010912:APCP:surface:42-45 hour acc fcst:
+16:1253049:d=2014010912:APCP:surface:42-48 hour acc fcst:
+17:1324946:d=2014010912:APCP:surface:48-51 hour acc fcst:
+18:1444804:d=2014010912:APCP:surface:48-54 hour acc fcst:
+19:1584229:d=2014010912:APCP:surface:54-57 hour acc fcst:
+20:1703802:d=2014010912:APCP:surface:54-60 hour acc fcst:
+21:1842198:d=2014010912:APCP:surface:60-63 hour acc fcst:
+22:1960105:d=2014010912:APCP:surface:60-66 hour acc fcst:
+23:2030762:d=2014010912:APCP:surface:66-69 hour acc fcst:
+24:2148910:d=2014010912:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014010912:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014010912:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014010912:APCP:surface:6-9 hour acc fcst:
+4:1170249:d=2014010912:APCP:surface:9-12 hour acc fcst:
+5:1495352:d=2014010912:APCP:surface:12-15 hour acc fcst:
+6:1820455:d=2014010912:APCP:surface:15-18 hour acc fcst:
+7:2145558:d=2014010912:APCP:surface:18-21 hour acc fcst:
+8:2470661:d=2014010912:APCP:surface:21-24 hour acc fcst:
+9:2795764:d=2014010912:APCP:surface:24-27 hour acc fcst:
+10:3218337:d=2014010912:APCP:surface:27-30 hour acc fcst:
+11:3543440:d=2014010912:APCP:surface:30-33 hour acc fcst:
+12:3966013:d=2014010912:APCP:surface:33-36 hour acc fcst:
+13:4323606:d=2014010912:APCP:surface:36-39 hour acc fcst:
+14:4681199:d=2014010912:APCP:surface:39-42 hour acc fcst:
+15:5071282:d=2014010912:APCP:surface:42-45 hour acc fcst:
+16:5428875:d=2014010912:APCP:surface:45-48 hour acc fcst:
+17:5753978:d=2014010912:APCP:surface:48-51 hour acc fcst:
+18:6176551:d=2014010912:APCP:surface:51-54 hour acc fcst:
+19:6599124:d=2014010912:APCP:surface:54-57 hour acc fcst:
+20:7021697:d=2014010912:APCP:surface:57-60 hour acc fcst:
+21:7444270:d=2014010912:APCP:surface:60-63 hour acc fcst:
+22:7866843:d=2014010912:APCP:surface:63-66 hour acc fcst:
+23:8191946:d=2014010912:APCP:surface:66-69 hour acc fcst:
+24:8614519:d=2014010912:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.16s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.07s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011000.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011000.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+116:19691667:d=2014011012:APCP:surface:0-3 hour acc fcst:
+240:37236655:d=2014011012:APCP:surface:0-6 hour acc fcst:
+173:26566839:d=2014011012:APCP:surface:6-9 hour acc fcst:
+218:34187177:d=2014011012:APCP:surface:6-12 hour acc fcst:
+52:7809820:d=2014011012:APCP:surface:12-15 hour acc fcst:
+171:27675690:d=2014011012:APCP:surface:12-18 hour acc fcst:
+175:28092080:d=2014011012:APCP:surface:18-21 hour acc fcst:
+221:34710604:d=2014011012:APCP:surface:18-24 hour acc fcst:
+234:37834888:d=2014011012:APCP:surface:24-27 hour acc fcst:
+274:44070778:d=2014011012:APCP:surface:24-30 hour acc fcst:
+287:45478854:d=2014011012:APCP:surface:30-33 hour acc fcst:
+284:45693195:d=2014011012:APCP:surface:30-36 hour acc fcst:
+235:37067551:d=2014011012:APCP:surface:36-39 hour acc fcst:
+168:25755618:d=2014011012:APCP:surface:36-42 hour acc fcst:
+40:5933347:d=2014011012:APCP:surface:42-45 hour acc fcst:
+216:33370341:d=2014011012:APCP:surface:42-48 hour acc fcst:
+290:46598922:d=2014011012:APCP:surface:48-51 hour acc fcst:
+147:22234787:d=2014011012:APCP:surface:48-54 hour acc fcst:
+261:41817956:d=2014011012:APCP:surface:54-57 hour acc fcst:
+261:40878874:d=2014011012:APCP:surface:54-60 hour acc fcst:
+145:21681773:d=2014011012:APCP:surface:60-63 hour acc fcst:
+164:25515250:d=2014011012:APCP:surface:60-66 hour acc fcst:
+260:40688327:d=2014011012:APCP:surface:66-69 hour acc fcst:
+154:24451869:d=2014011012:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011012:APCP:surface:0-3 hour acc fcst:
+2:128077:d=2014011012:APCP:surface:0-6 hour acc fcst:
+3:205216:d=2014011012:APCP:surface:6-9 hour acc fcst:
+4:329261:d=2014011012:APCP:surface:6-12 hour acc fcst:
+5:403767:d=2014011012:APCP:surface:12-15 hour acc fcst:
+6:464278:d=2014011012:APCP:surface:12-18 hour acc fcst:
+7:537663:d=2014011012:APCP:surface:18-21 hour acc fcst:
+8:597730:d=2014011012:APCP:surface:18-24 hour acc fcst:
+9:670849:d=2014011012:APCP:surface:24-27 hour acc fcst:
+10:730865:d=2014011012:APCP:surface:24-30 hour acc fcst:
+11:803865:d=2014011012:APCP:surface:30-33 hour acc fcst:
+12:863941:d=2014011012:APCP:surface:30-36 hour acc fcst:
+13:936663:d=2014011012:APCP:surface:36-39 hour acc fcst:
+14:1056162:d=2014011012:APCP:surface:36-42 hour acc fcst:
+15:1127900:d=2014011012:APCP:surface:42-45 hour acc fcst:
+16:1186564:d=2014011012:APCP:surface:42-48 hour acc fcst:
+17:1258139:d=2014011012:APCP:surface:48-51 hour acc fcst:
+18:1378330:d=2014011012:APCP:surface:48-54 hour acc fcst:
+19:1450178:d=2014011012:APCP:surface:54-57 hour acc fcst:
+20:1509429:d=2014011012:APCP:surface:54-60 hour acc fcst:
+21:1581033:d=2014011012:APCP:surface:60-63 hour acc fcst:
+22:1699768:d=2014011012:APCP:surface:60-66 hour acc fcst:
+23:1770860:d=2014011012:APCP:surface:66-69 hour acc fcst:
+24:1888972:d=2014011012:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011012:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011012:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014011012:APCP:surface:6-9 hour acc fcst:
+4:1202739:d=2014011012:APCP:surface:9-12 hour acc fcst:
+5:1527842:d=2014011012:APCP:surface:12-15 hour acc fcst:
+6:1885435:d=2014011012:APCP:surface:15-18 hour acc fcst:
+7:2243028:d=2014011012:APCP:surface:18-21 hour acc fcst:
+8:2568131:d=2014011012:APCP:surface:21-24 hour acc fcst:
+9:2893234:d=2014011012:APCP:surface:24-27 hour acc fcst:
+10:3218337:d=2014011012:APCP:surface:27-30 hour acc fcst:
+11:3543440:d=2014011012:APCP:surface:30-33 hour acc fcst:
+12:3901033:d=2014011012:APCP:surface:33-36 hour acc fcst:
+13:4226136:d=2014011012:APCP:surface:36-39 hour acc fcst:
+14:4648709:d=2014011012:APCP:surface:39-42 hour acc fcst:
+15:4973812:d=2014011012:APCP:surface:42-45 hour acc fcst:
+16:5298915:d=2014011012:APCP:surface:45-48 hour acc fcst:
+17:5624018:d=2014011012:APCP:surface:48-51 hour acc fcst:
+18:6079081:d=2014011012:APCP:surface:51-54 hour acc fcst:
+19:6404184:d=2014011012:APCP:surface:54-57 hour acc fcst:
+20:6729287:d=2014011012:APCP:surface:57-60 hour acc fcst:
+21:7054390:d=2014011012:APCP:surface:60-63 hour acc fcst:
+22:7476963:d=2014011012:APCP:surface:63-66 hour acc fcst:
+23:7802066:d=2014011012:APCP:surface:66-69 hour acc fcst:
+24:8224639:d=2014011012:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.25s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.08s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011100.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011100.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+231:38040293:d=2014011112:APCP:surface:0-3 hour acc fcst:
+274:44415258:d=2014011112:APCP:surface:0-6 hour acc fcst:
+249:40058640:d=2014011112:APCP:surface:6-9 hour acc fcst:
+126:19082333:d=2014011112:APCP:surface:6-12 hour acc fcst:
+272:43239960:d=2014011112:APCP:surface:12-15 hour acc fcst:
+186:30114712:d=2014011112:APCP:surface:12-18 hour acc fcst:
+65:10122635:d=2014011112:APCP:surface:18-21 hour acc fcst:
+169:25756530:d=2014011112:APCP:surface:18-24 hour acc fcst:
+278:45044915:d=2014011112:APCP:surface:24-27 hour acc fcst:
+226:37425070:d=2014011112:APCP:surface:24-30 hour acc fcst:
+174:28009503:d=2014011112:APCP:surface:30-33 hour acc fcst:
+170:27083519:d=2014011112:APCP:surface:30-36 hour acc fcst:
+227:36192418:d=2014011112:APCP:surface:36-39 hour acc fcst:
+199:30544345:d=2014011112:APCP:surface:36-42 hour acc fcst:
+243:38982507:d=2014011112:APCP:surface:42-45 hour acc fcst:
+62:9128053:d=2014011112:APCP:surface:42-48 hour acc fcst:
+240:38720360:d=2014011112:APCP:surface:48-51 hour acc fcst:
+177:27387583:d=2014011112:APCP:surface:48-54 hour acc fcst:
+229:37708620:d=2014011112:APCP:surface:54-57 hour acc fcst:
+282:46421322:d=2014011112:APCP:surface:54-60 hour acc fcst:
+308:50920828:d=2014011112:APCP:surface:60-63 hour acc fcst:
+304:49853880:d=2014011112:APCP:surface:60-66 hour acc fcst:
+106:16011033:d=2014011112:APCP:surface:66-69 hour acc fcst:
+174:26254438:d=2014011112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011112:APCP:surface:66-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 259920 values from 1 variable over 1 timestep ( 0.06s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 259920 values from 1 variable over 1 timestep ( 0.07s )
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011200.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011200.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+229:37007553:d=2014011212:APCP:surface:0-3 hour acc fcst:
+85:12439428:d=2014011212:APCP:surface:0-6 hour acc fcst:
+225:35281250:d=2014011212:APCP:surface:6-9 hour acc fcst:
+85:12437946:d=2014011212:APCP:surface:6-12 hour acc fcst:
+221:34447781:d=2014011212:APCP:surface:12-15 hour acc fcst:
+243:39096732:d=2014011212:APCP:surface:12-18 hour acc fcst:
+273:43364925:d=2014011212:APCP:surface:18-21 hour acc fcst:
+69:9854379:d=2014011212:APCP:surface:18-24 hour acc fcst:
+103:15069659:d=2014011212:APCP:surface:24-27 hour acc fcst:
+161:25095404:d=2014011212:APCP:surface:24-30 hour acc fcst:
+293:49259366:d=2014011212:APCP:surface:30-33 hour acc fcst:
+234:37680294:d=2014011212:APCP:surface:30-36 hour acc fcst:
+202:32249156:d=2014011212:APCP:surface:36-39 hour acc fcst:
+229:37865671:d=2014011212:APCP:surface:36-42 hour acc fcst:
+127:20110221:d=2014011212:APCP:surface:42-45 hour acc fcst:
+123:19213420:d=2014011212:APCP:surface:42-48 hour acc fcst:
+219:35813496:d=2014011212:APCP:surface:48-51 hour acc fcst:
+130:20192346:d=2014011212:APCP:surface:48-54 hour acc fcst:
+105:16323607:d=2014011212:APCP:surface:54-57 hour acc fcst:
+286:46325773:d=2014011212:APCP:surface:54-60 hour acc fcst:
+100:15884684:d=2014011212:APCP:surface:60-63 hour acc fcst:
+149:22516544:d=2014011212:APCP:surface:60-66 hour acc fcst:
+238:37688805:d=2014011212:APCP:surface:66-69 hour acc fcst:
+164:25512816:d=2014011212:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011212:APCP:surface:0-3 hour acc fcst:
+2:124097:d=2014011212:APCP:surface:0-6 hour acc fcst:
+3:198905:d=2014011212:APCP:surface:6-9 hour acc fcst:
+4:259523:d=2014011212:APCP:surface:6-12 hour acc fcst:
+5:332974:d=2014011212:APCP:surface:12-15 hour acc fcst:
+6:453101:d=2014011212:APCP:surface:12-18 hour acc fcst:
+7:525199:d=2014011212:APCP:surface:18-21 hour acc fcst:
+8:584155:d=2014011212:APCP:surface:18-24 hour acc fcst:
+9:656504:d=2014011212:APCP:surface:24-27 hour acc fcst:
+10:716315:d=2014011212:APCP:surface:24-30 hour acc fcst:
+11:789200:d=2014011212:APCP:surface:30-33 hour acc fcst:
+12:848967:d=2014011212:APCP:surface:30-36 hour acc fcst:
+13:921245:d=2014011212:APCP:surface:36-39 hour acc fcst:
+14:979533:d=2014011212:APCP:surface:36-42 hour acc fcst:
+15:1050562:d=2014011212:APCP:surface:42-45 hour acc fcst:
+16:1168775:d=2014011212:APCP:surface:42-48 hour acc fcst:
+17:1239686:d=2014011212:APCP:surface:48-51 hour acc fcst:
+18:1358206:d=2014011212:APCP:surface:48-54 hour acc fcst:
+19:1429304:d=2014011212:APCP:surface:54-57 hour acc fcst:
+20:1547585:d=2014011212:APCP:surface:54-60 hour acc fcst:
+21:1618233:d=2014011212:APCP:surface:60-63 hour acc fcst:
+22:1735418:d=2014011212:APCP:surface:60-66 hour acc fcst:
+23:1805540:d=2014011212:APCP:surface:66-69 hour acc fcst:
+24:1862871:d=2014011212:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011212:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011212:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014011212:APCP:surface:6-9 hour acc fcst:
+4:1105269:d=2014011212:APCP:surface:9-12 hour acc fcst:
+5:1430372:d=2014011212:APCP:surface:12-15 hour acc fcst:
+6:1885435:d=2014011212:APCP:surface:15-18 hour acc fcst:
+7:2243028:d=2014011212:APCP:surface:18-21 hour acc fcst:
+8:2600621:d=2014011212:APCP:surface:21-24 hour acc fcst:
+9:2925724:d=2014011212:APCP:surface:24-27 hour acc fcst:
+10:3283317:d=2014011212:APCP:surface:27-30 hour acc fcst:
+11:3640910:d=2014011212:APCP:surface:30-33 hour acc fcst:
+12:3966013:d=2014011212:APCP:surface:33-36 hour acc fcst:
+13:4291116:d=2014011212:APCP:surface:36-39 hour acc fcst:
+14:4616219:d=2014011212:APCP:surface:39-42 hour acc fcst:
+15:4941322:d=2014011212:APCP:surface:42-45 hour acc fcst:
+16:5363895:d=2014011212:APCP:surface:45-48 hour acc fcst:
+17:5688998:d=2014011212:APCP:surface:48-51 hour acc fcst:
+18:6111571:d=2014011212:APCP:surface:51-54 hour acc fcst:
+19:6436674:d=2014011212:APCP:surface:54-57 hour acc fcst:
+20:6859247:d=2014011212:APCP:surface:57-60 hour acc fcst:
+21:7184350:d=2014011212:APCP:surface:60-63 hour acc fcst:
+22:7606923:d=2014011212:APCP:surface:63-66 hour acc fcst:
+23:7932026:d=2014011212:APCP:surface:66-69 hour acc fcst:
+24:8257129:d=2014011212:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.21s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.09s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011300.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011300.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+263:40733046:d=2014011312:APCP:surface:0-3 hour acc fcst:
+297:47650427:d=2014011312:APCP:surface:0-6 hour acc fcst:
+177:27494214:d=2014011312:APCP:surface:6-9 hour acc fcst:
+166:25938627:d=2014011312:APCP:surface:6-12 hour acc fcst:
+176:27074978:d=2014011312:APCP:surface:12-15 hour acc fcst:
+161:26069613:d=2014011312:APCP:surface:12-18 hour acc fcst:
+36:5534488:d=2014011312:APCP:surface:18-21 hour acc fcst:
+27:4196988:d=2014011312:APCP:surface:18-24 hour acc fcst:
+83:13272514:d=2014011312:APCP:surface:24-27 hour acc fcst:
+227:36644808:d=2014011312:APCP:surface:24-30 hour acc fcst:
+308:50673329:d=2014011312:APCP:surface:30-33 hour acc fcst:
+278:45500512:d=2014011312:APCP:surface:30-36 hour acc fcst:
+302:49486611:d=2014011312:APCP:surface:36-39 hour acc fcst:
+215:34296063:d=2014011312:APCP:surface:36-42 hour acc fcst:
+155:24291465:d=2014011312:APCP:surface:42-45 hour acc fcst:
+219:35059024:d=2014011312:APCP:surface:42-48 hour acc fcst:
+112:17645656:d=2014011312:APCP:surface:48-51 hour acc fcst:
+268:43375298:d=2014011312:APCP:surface:48-54 hour acc fcst:
+192:31204353:d=2014011312:APCP:surface:54-57 hour acc fcst:
+205:33212765:d=2014011312:APCP:surface:54-60 hour acc fcst:
+106:16126787:d=2014011312:APCP:surface:60-63 hour acc fcst:
+258:41593019:d=2014011312:APCP:surface:60-66 hour acc fcst:
+299:48244165:d=2014011312:APCP:surface:66-69 hour acc fcst:
+287:46817065:d=2014011312:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011312:APCP:surface:0-3 hour acc fcst:
+2:124010:d=2014011312:APCP:surface:0-6 hour acc fcst:
+3:198954:d=2014011312:APCP:surface:6-9 hour acc fcst:
+4:321114:d=2014011312:APCP:surface:6-12 hour acc fcst:
+5:394444:d=2014011312:APCP:surface:12-15 hour acc fcst:
+6:453863:d=2014011312:APCP:surface:12-18 hour acc fcst:
+7:526110:d=2014011312:APCP:surface:18-21 hour acc fcst:
+8:645926:d=2014011312:APCP:surface:18-24 hour acc fcst:
+9:718054:d=2014011312:APCP:surface:24-27 hour acc fcst:
+10:777323:d=2014011312:APCP:surface:24-30 hour acc fcst:
+11:849601:d=2014011312:APCP:surface:30-33 hour acc fcst:
+12:968833:d=2014011312:APCP:surface:30-36 hour acc fcst:
+13:1040234:d=2014011312:APCP:surface:36-39 hour acc fcst:
+14:1157365:d=2014011312:APCP:surface:36-42 hour acc fcst:
+15:1227484:d=2014011312:APCP:surface:42-45 hour acc fcst:
+16:1344510:d=2014011312:APCP:surface:42-48 hour acc fcst:
+17:1414836:d=2014011312:APCP:surface:48-51 hour acc fcst:
+18:1532277:d=2014011312:APCP:surface:48-54 hour acc fcst:
+19:1602613:d=2014011312:APCP:surface:54-57 hour acc fcst:
+20:1719644:d=2014011312:APCP:surface:54-60 hour acc fcst:
+21:1789208:d=2014011312:APCP:surface:60-63 hour acc fcst:
+22:1904465:d=2014011312:APCP:surface:60-66 hour acc fcst:
+23:1973133:d=2014011312:APCP:surface:66-69 hour acc fcst:
+24:2088715:d=2014011312:APCP:surface:66-72 hour acc fcst:
+
+*** FATAL ERROR: could not open file: rain.gfs.2014011312 ***
+
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011312.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011312.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011400.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011400.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+154:23957987:d=2014011412:APCP:surface:0-3 hour acc fcst:
+202:30916713:d=2014011412:APCP:surface:0-6 hour acc fcst:
+261:42185824:d=2014011412:APCP:surface:6-9 hour acc fcst:
+209:33540359:d=2014011412:APCP:surface:6-12 hour acc fcst:
+156:24759505:d=2014011412:APCP:surface:12-15 hour acc fcst:
+200:31387039:d=2014011412:APCP:surface:12-18 hour acc fcst:
+58:7798319:d=2014011412:APCP:surface:18-21 hour acc fcst:
+161:26028653:d=2014011412:APCP:surface:18-24 hour acc fcst:
+297:48819665:d=2014011412:APCP:surface:24-27 hour acc fcst:
+236:37739615:d=2014011412:APCP:surface:24-30 hour acc fcst:
+174:27937284:d=2014011412:APCP:surface:30-33 hour acc fcst:
+73:11065388:d=2014011412:APCP:surface:30-36 hour acc fcst:
+64:9621489:d=2014011412:APCP:surface:36-39 hour acc fcst:
+200:32148173:d=2014011412:APCP:surface:36-42 hour acc fcst:
+192:31099293:d=2014011412:APCP:surface:42-45 hour acc fcst:
+259:42517773:d=2014011412:APCP:surface:42-48 hour acc fcst:
+216:35145805:d=2014011412:APCP:surface:48-51 hour acc fcst:
+116:16892672:d=2014011412:APCP:surface:48-54 hour acc fcst:
+221:34811396:d=2014011412:APCP:surface:54-57 hour acc fcst:
+49:6792567:d=2014011412:APCP:surface:54-60 hour acc fcst:
+264:43091110:d=2014011412:APCP:surface:60-63 hour acc fcst:
+308:50381343:d=2014011412:APCP:surface:60-66 hour acc fcst:
+192:29820360:d=2014011412:APCP:surface:66-69 hour acc fcst:
+260:41988148:d=2014011412:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011412:APCP:surface:42-48 hour acc fcst:
+2:69942:d=2014011412:APCP:surface:48-51 hour acc fcst:
+3:127317:d=2014011412:APCP:surface:48-54 hour acc fcst:
+4:197581:d=2014011412:APCP:surface:54-57 hour acc fcst:
+5:255362:d=2014011412:APCP:surface:54-60 hour acc fcst:
+6:325963:d=2014011412:APCP:surface:60-63 hour acc fcst:
+7:383403:d=2014011412:APCP:surface:60-66 hour acc fcst:
+8:453282:d=2014011412:APCP:surface:66-69 hour acc fcst:
+9:510871:d=2014011412:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011412:APCP:surface:42-48 hour acc fcst:
+2:357593:d=2014011412:APCP:surface:48-51 hour acc fcst:
+3:682696:d=2014011412:APCP:surface:51-54 hour acc fcst:
+4:1040289:d=2014011412:APCP:surface:54-57 hour acc fcst:
+5:1397882:d=2014011412:APCP:surface:57-60 hour acc fcst:
+6:1755475:d=2014011412:APCP:surface:60-63 hour acc fcst:
+7:2113068:d=2014011412:APCP:surface:63-66 hour acc fcst:
+8:2470661:d=2014011412:APCP:surface:66-69 hour acc fcst:
+9:2828254:d=2014011412:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 2339280 values from 1 variable over 9 timesteps ( 0.18s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 519840 values from 1 variable over 2 timesteps ( 0.06s )
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011500.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011500.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+97:13500450:d=2014011512:APCP:surface:0-3 hour acc fcst:
+94:13541441:d=2014011512:APCP:surface:0-6 hour acc fcst:
+47:6561836:d=2014011512:APCP:surface:6-9 hour acc fcst:
+247:40189113:d=2014011512:APCP:surface:6-12 hour acc fcst:
+135:20238401:d=2014011512:APCP:surface:12-15 hour acc fcst:
+295:47825551:d=2014011512:APCP:surface:12-18 hour acc fcst:
+278:44958879:d=2014011512:APCP:surface:18-21 hour acc fcst:
+139:21829481:d=2014011512:APCP:surface:18-24 hour acc fcst:
+149:22486127:d=2014011512:APCP:surface:24-27 hour acc fcst:
+207:33839186:d=2014011512:APCP:surface:24-30 hour acc fcst:
+116:17289213:d=2014011512:APCP:surface:30-33 hour acc fcst:
+262:42145038:d=2014011512:APCP:surface:30-36 hour acc fcst:
+209:33485796:d=2014011512:APCP:surface:36-39 hour acc fcst:
+260:42469204:d=2014011512:APCP:surface:36-42 hour acc fcst:
+107:16290401:d=2014011512:APCP:surface:42-45 hour acc fcst:
+181:30098947:d=2014011512:APCP:surface:42-48 hour acc fcst:
+133:20726043:d=2014011512:APCP:surface:48-51 hour acc fcst:
+73:10478293:d=2014011512:APCP:surface:48-54 hour acc fcst:
+89:13086151:d=2014011512:APCP:surface:54-57 hour acc fcst:
+242:39774750:d=2014011512:APCP:surface:54-60 hour acc fcst:
+176:28230684:d=2014011512:APCP:surface:60-63 hour acc fcst:
+264:43873492:d=2014011512:APCP:surface:60-66 hour acc fcst:
+243:40490052:d=2014011512:APCP:surface:66-69 hour acc fcst:
+178:28408382:d=2014011512:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011512:APCP:surface:0-3 hour acc fcst:
+2:122245:d=2014011512:APCP:surface:0-6 hour acc fcst:
+3:195562:d=2014011512:APCP:surface:6-9 hour acc fcst:
+4:314776:d=2014011512:APCP:surface:6-12 hour acc fcst:
+5:386359:d=2014011512:APCP:surface:12-15 hour acc fcst:
+6:444201:d=2014011512:APCP:surface:12-18 hour acc fcst:
+7:514645:d=2014011512:APCP:surface:18-21 hour acc fcst:
+8:632532:d=2014011512:APCP:surface:18-24 hour acc fcst:
+9:703014:d=2014011512:APCP:surface:24-27 hour acc fcst:
+10:821532:d=2014011512:APCP:surface:24-30 hour acc fcst:
+11:892491:d=2014011512:APCP:surface:30-33 hour acc fcst:
+12:1010713:d=2014011512:APCP:surface:30-36 hour acc fcst:
+13:1081541:d=2014011512:APCP:surface:36-39 hour acc fcst:
+14:1198638:d=2014011512:APCP:surface:36-42 hour acc fcst:
+15:1268413:d=2014011512:APCP:surface:42-45 hour acc fcst:
+16:1386542:d=2014011512:APCP:surface:42-48 hour acc fcst:
+17:1457341:d=2014011512:APCP:surface:48-51 hour acc fcst:
+18:1576796:d=2014011512:APCP:surface:48-54 hour acc fcst:
+19:1648443:d=2014011512:APCP:surface:54-57 hour acc fcst:
+20:1707663:d=2014011512:APCP:surface:54-60 hour acc fcst:
+21:1779274:d=2014011512:APCP:surface:60-63 hour acc fcst:
+22:1897766:d=2014011512:APCP:surface:60-66 hour acc fcst:
+23:1968726:d=2014011512:APCP:surface:66-69 hour acc fcst:
+24:2087419:d=2014011512:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011512:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011512:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014011512:APCP:surface:6-9 hour acc fcst:
+4:1170249:d=2014011512:APCP:surface:9-12 hour acc fcst:
+5:1495352:d=2014011512:APCP:surface:12-15 hour acc fcst:
+6:1820455:d=2014011512:APCP:surface:15-18 hour acc fcst:
+7:2178048:d=2014011512:APCP:surface:18-21 hour acc fcst:
+8:2600621:d=2014011512:APCP:surface:21-24 hour acc fcst:
+9:2925724:d=2014011512:APCP:surface:24-27 hour acc fcst:
+10:3348297:d=2014011512:APCP:surface:27-30 hour acc fcst:
+11:3673400:d=2014011512:APCP:surface:30-33 hour acc fcst:
+12:4095973:d=2014011512:APCP:surface:33-36 hour acc fcst:
+13:4421076:d=2014011512:APCP:surface:36-39 hour acc fcst:
+14:4843649:d=2014011512:APCP:surface:39-42 hour acc fcst:
+15:5168752:d=2014011512:APCP:surface:42-45 hour acc fcst:
+16:5623815:d=2014011512:APCP:surface:45-48 hour acc fcst:
+17:5948918:d=2014011512:APCP:surface:48-51 hour acc fcst:
+18:6371491:d=2014011512:APCP:surface:51-54 hour acc fcst:
+19:6696594:d=2014011512:APCP:surface:54-57 hour acc fcst:
+20:7054187:d=2014011512:APCP:surface:57-60 hour acc fcst:
+21:7411780:d=2014011512:APCP:surface:60-63 hour acc fcst:
+22:7834353:d=2014011512:APCP:surface:63-66 hour acc fcst:
+23:8159456:d=2014011512:APCP:surface:66-69 hour acc fcst:
+24:8614519:d=2014011512:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.19s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.09s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011600.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011600.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+232:37778544:d=2014011612:APCP:surface:0-3 hour acc fcst:
+298:48210802:d=2014011612:APCP:surface:0-6 hour acc fcst:
+162:25993833:d=2014011612:APCP:surface:6-9 hour acc fcst:
+237:38009571:d=2014011612:APCP:surface:6-12 hour acc fcst:
+186:28945100:d=2014011612:APCP:surface:12-15 hour acc fcst:
+61:9755292:d=2014011612:APCP:surface:12-18 hour acc fcst:
+195:32151829:d=2014011612:APCP:surface:18-21 hour acc fcst:
+237:38522705:d=2014011612:APCP:surface:18-24 hour acc fcst:
+197:31583047:d=2014011612:APCP:surface:24-27 hour acc fcst:
+72:10325372:d=2014011612:APCP:surface:24-30 hour acc fcst:
+161:26300191:d=2014011612:APCP:surface:30-33 hour acc fcst:
+128:20177748:d=2014011612:APCP:surface:30-36 hour acc fcst:
+151:24355941:d=2014011612:APCP:surface:36-39 hour acc fcst:
+131:21141362:d=2014011612:APCP:surface:36-42 hour acc fcst:
+107:16712173:d=2014011612:APCP:surface:42-45 hour acc fcst:
+250:41610174:d=2014011612:APCP:surface:42-48 hour acc fcst:
+198:31498216:d=2014011612:APCP:surface:48-51 hour acc fcst:
+252:41730335:d=2014011612:APCP:surface:48-54 hour acc fcst:
+146:23264662:d=2014011612:APCP:surface:54-57 hour acc fcst:
+99:15205284:d=2014011612:APCP:surface:54-60 hour acc fcst:
+241:38427822:d=2014011612:APCP:surface:60-63 hour acc fcst:
+193:31126201:d=2014011612:APCP:surface:60-66 hour acc fcst:
+147:23221270:d=2014011612:APCP:surface:66-69 hour acc fcst:
+203:32271956:d=2014011612:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011612:APCP:surface:0-3 hour acc fcst:
+2:121187:d=2014011612:APCP:surface:0-6 hour acc fcst:
+3:262385:d=2014011612:APCP:surface:6-9 hour acc fcst:
+4:381355:d=2014011612:APCP:surface:6-12 hour acc fcst:
+5:453224:d=2014011612:APCP:surface:12-15 hour acc fcst:
+6:511547:d=2014011612:APCP:surface:12-18 hour acc fcst:
+7:582987:d=2014011612:APCP:surface:18-21 hour acc fcst:
+8:641192:d=2014011612:APCP:surface:18-24 hour acc fcst:
+9:712864:d=2014011612:APCP:surface:24-27 hour acc fcst:
+10:771989:d=2014011612:APCP:surface:24-30 hour acc fcst:
+11:844669:d=2014011612:APCP:surface:30-33 hour acc fcst:
+12:904430:d=2014011612:APCP:surface:30-36 hour acc fcst:
+13:976666:d=2014011612:APCP:surface:36-39 hour acc fcst:
+14:1095672:d=2014011612:APCP:surface:36-42 hour acc fcst:
+15:1167073:d=2014011612:APCP:surface:42-45 hour acc fcst:
+16:1286583:d=2014011612:APCP:surface:42-48 hour acc fcst:
+17:1358325:d=2014011612:APCP:surface:48-51 hour acc fcst:
+18:1478385:d=2014011612:APCP:surface:48-54 hour acc fcst:
+19:1550390:d=2014011612:APCP:surface:54-57 hour acc fcst:
+20:1670166:d=2014011612:APCP:surface:54-60 hour acc fcst:
+21:1809161:d=2014011612:APCP:surface:60-63 hour acc fcst:
+22:1927172:d=2014011612:APCP:surface:60-66 hour acc fcst:
+23:2064770:d=2014011612:APCP:surface:66-69 hour acc fcst:
+24:2182895:d=2014011612:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011612:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011612:APCP:surface:3-6 hour acc fcst:
+3:845146:d=2014011612:APCP:surface:6-9 hour acc fcst:
+4:1267719:d=2014011612:APCP:surface:9-12 hour acc fcst:
+5:1592822:d=2014011612:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014011612:APCP:surface:15-18 hour acc fcst:
+7:2243028:d=2014011612:APCP:surface:18-21 hour acc fcst:
+8:2600621:d=2014011612:APCP:surface:21-24 hour acc fcst:
+9:2958214:d=2014011612:APCP:surface:24-27 hour acc fcst:
+10:3315807:d=2014011612:APCP:surface:27-30 hour acc fcst:
+11:3673400:d=2014011612:APCP:surface:30-33 hour acc fcst:
+12:4030993:d=2014011612:APCP:surface:33-36 hour acc fcst:
+13:4356096:d=2014011612:APCP:surface:36-39 hour acc fcst:
+14:4778669:d=2014011612:APCP:surface:39-42 hour acc fcst:
+15:5103772:d=2014011612:APCP:surface:42-45 hour acc fcst:
+16:5526345:d=2014011612:APCP:surface:45-48 hour acc fcst:
+17:5851448:d=2014011612:APCP:surface:48-51 hour acc fcst:
+18:6274021:d=2014011612:APCP:surface:51-54 hour acc fcst:
+19:6599124:d=2014011612:APCP:surface:54-57 hour acc fcst:
+20:7021697:d=2014011612:APCP:surface:57-60 hour acc fcst:
+21:7444270:d=2014011612:APCP:surface:60-63 hour acc fcst:
+22:7866843:d=2014011612:APCP:surface:63-66 hour acc fcst:
+23:8256926:d=2014011612:APCP:surface:66-69 hour acc fcst:
+24:8679499:d=2014011612:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.20s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.07s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011700.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011700.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+234:38034837:d=2014011712:APCP:surface:0-3 hour acc fcst:
+290:46351437:d=2014011712:APCP:surface:0-6 hour acc fcst:
+181:28898477:d=2014011712:APCP:surface:6-9 hour acc fcst:
+85:12523300:d=2014011712:APCP:surface:6-12 hour acc fcst:
+204:32087392:d=2014011712:APCP:surface:12-15 hour acc fcst:
+218:34989885:d=2014011712:APCP:surface:12-18 hour acc fcst:
+246:39517636:d=2014011712:APCP:surface:18-21 hour acc fcst:
+190:30626856:d=2014011712:APCP:surface:18-24 hour acc fcst:
+256:41813699:d=2014011712:APCP:surface:24-27 hour acc fcst:
+282:45292752:d=2014011712:APCP:surface:24-30 hour acc fcst:
+282:46640226:d=2014011712:APCP:surface:30-33 hour acc fcst:
+169:26546363:d=2014011712:APCP:surface:30-36 hour acc fcst:
+278:45419175:d=2014011712:APCP:surface:36-39 hour acc fcst:
+98:14547709:d=2014011712:APCP:surface:36-42 hour acc fcst:
+184:28115970:d=2014011712:APCP:surface:42-45 hour acc fcst:
+60:9739148:d=2014011712:APCP:surface:42-48 hour acc fcst:
+237:38199342:d=2014011712:APCP:surface:48-51 hour acc fcst:
+300:49694475:d=2014011712:APCP:surface:48-54 hour acc fcst:
+274:44799693:d=2014011712:APCP:surface:54-57 hour acc fcst:
+296:48516762:d=2014011712:APCP:surface:54-60 hour acc fcst:
+301:48960956:d=2014011712:APCP:surface:60-63 hour acc fcst:
+269:42690909:d=2014011712:APCP:surface:60-66 hour acc fcst:
+251:40604229:d=2014011712:APCP:surface:66-69 hour acc fcst:
+105:16086009:d=2014011712:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011712:APCP:surface:0-3 hour acc fcst:
+2:123641:d=2014011712:APCP:surface:0-6 hour acc fcst:
+3:198508:d=2014011712:APCP:surface:6-9 hour acc fcst:
+4:259139:d=2014011712:APCP:surface:6-12 hour acc fcst:
+5:332842:d=2014011712:APCP:surface:12-15 hour acc fcst:
+6:392691:d=2014011712:APCP:surface:12-18 hour acc fcst:
+7:465363:d=2014011712:APCP:surface:18-21 hour acc fcst:
+8:524850:d=2014011712:APCP:surface:18-24 hour acc fcst:
+9:597425:d=2014011712:APCP:surface:24-27 hour acc fcst:
+10:657017:d=2014011712:APCP:surface:24-30 hour acc fcst:
+11:729836:d=2014011712:APCP:surface:30-33 hour acc fcst:
+12:850185:d=2014011712:APCP:surface:30-36 hour acc fcst:
+13:922249:d=2014011712:APCP:surface:36-39 hour acc fcst:
+14:1040321:d=2014011712:APCP:surface:36-42 hour acc fcst:
+15:1111044:d=2014011712:APCP:surface:42-45 hour acc fcst:
+16:1229825:d=2014011712:APCP:surface:42-48 hour acc fcst:
+17:1369115:d=2014011712:APCP:surface:48-51 hour acc fcst:
+18:1488188:d=2014011712:APCP:surface:48-54 hour acc fcst:
+19:1627296:d=2014011712:APCP:surface:54-57 hour acc fcst:
+20:1746311:d=2014011712:APCP:surface:54-60 hour acc fcst:
+21:1884894:d=2014011712:APCP:surface:60-63 hour acc fcst:
+22:2002146:d=2014011712:APCP:surface:60-66 hour acc fcst:
+23:2072146:d=2014011712:APCP:surface:66-69 hour acc fcst:
+24:2129560:d=2014011712:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011712:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011712:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014011712:APCP:surface:6-9 hour acc fcst:
+4:1072779:d=2014011712:APCP:surface:9-12 hour acc fcst:
+5:1430372:d=2014011712:APCP:surface:12-15 hour acc fcst:
+6:1787965:d=2014011712:APCP:surface:15-18 hour acc fcst:
+7:2145558:d=2014011712:APCP:surface:18-21 hour acc fcst:
+8:2503151:d=2014011712:APCP:surface:21-24 hour acc fcst:
+9:2828254:d=2014011712:APCP:surface:24-27 hour acc fcst:
+10:3153357:d=2014011712:APCP:surface:27-30 hour acc fcst:
+11:3478460:d=2014011712:APCP:surface:30-33 hour acc fcst:
+12:3933523:d=2014011712:APCP:surface:33-36 hour acc fcst:
+13:4258626:d=2014011712:APCP:surface:36-39 hour acc fcst:
+14:4681199:d=2014011712:APCP:surface:39-42 hour acc fcst:
+15:5006302:d=2014011712:APCP:surface:42-45 hour acc fcst:
+16:5428875:d=2014011712:APCP:surface:45-48 hour acc fcst:
+17:5818958:d=2014011712:APCP:surface:48-51 hour acc fcst:
+18:6209041:d=2014011712:APCP:surface:51-54 hour acc fcst:
+19:6631614:d=2014011712:APCP:surface:54-57 hour acc fcst:
+20:7054187:d=2014011712:APCP:surface:57-60 hour acc fcst:
+21:7476760:d=2014011712:APCP:surface:60-63 hour acc fcst:
+22:7899333:d=2014011712:APCP:surface:63-66 hour acc fcst:
+23:8256926:d=2014011712:APCP:surface:66-69 hour acc fcst:
+24:8582029:d=2014011712:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.28s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.08s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011800.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011800.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+195:31970886:d=2014011812:APCP:surface:0-3 hour acc fcst:
+286:45685886:d=2014011812:APCP:surface:0-6 hour acc fcst:
+175:27050535:d=2014011812:APCP:surface:6-9 hour acc fcst:
+198:31624973:d=2014011812:APCP:surface:6-12 hour acc fcst:
+261:41903562:d=2014011812:APCP:surface:12-15 hour acc fcst:
+290:48193396:d=2014011812:APCP:surface:12-18 hour acc fcst:
+276:45438864:d=2014011812:APCP:surface:18-21 hour acc fcst:
+288:47509450:d=2014011812:APCP:surface:18-24 hour acc fcst:
+210:33404948:d=2014011812:APCP:surface:24-27 hour acc fcst:
+208:33362098:d=2014011812:APCP:surface:24-30 hour acc fcst:
+192:30928635:d=2014011812:APCP:surface:30-33 hour acc fcst:
+149:23467236:d=2014011812:APCP:surface:30-36 hour acc fcst:
+122:18458868:d=2014011812:APCP:surface:36-39 hour acc fcst:
+124:19351574:d=2014011812:APCP:surface:36-42 hour acc fcst:
+194:30763763:d=2014011812:APCP:surface:42-45 hour acc fcst:
+152:24114425:d=2014011812:APCP:surface:42-48 hour acc fcst:
+260:42346627:d=2014011812:APCP:surface:48-51 hour acc fcst:
+266:42991100:d=2014011812:APCP:surface:48-54 hour acc fcst:
+294:47818145:d=2014011812:APCP:surface:54-57 hour acc fcst:
+239:37890818:d=2014011812:APCP:surface:54-60 hour acc fcst:
+308:50592894:d=2014011812:APCP:surface:60-63 hour acc fcst:
+242:39044451:d=2014011812:APCP:surface:60-66 hour acc fcst:
+297:48068848:d=2014011812:APCP:surface:66-69 hour acc fcst:
+226:36019168:d=2014011812:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011812:APCP:surface:0-3 hour acc fcst:
+2:123856:d=2014011812:APCP:surface:0-6 hour acc fcst:
+3:198746:d=2014011812:APCP:surface:6-9 hour acc fcst:
+4:320221:d=2014011812:APCP:surface:6-12 hour acc fcst:
+5:393642:d=2014011812:APCP:surface:12-15 hour acc fcst:
+6:513428:d=2014011812:APCP:surface:12-18 hour acc fcst:
+7:653517:d=2014011812:APCP:surface:18-21 hour acc fcst:
+8:774426:d=2014011812:APCP:surface:18-24 hour acc fcst:
+9:915587:d=2014011812:APCP:surface:24-27 hour acc fcst:
+10:1035968:d=2014011812:APCP:surface:24-30 hour acc fcst:
+11:1108188:d=2014011812:APCP:surface:30-33 hour acc fcst:
+12:1228374:d=2014011812:APCP:surface:30-36 hour acc fcst:
+13:1300374:d=2014011812:APCP:surface:36-39 hour acc fcst:
+14:1418724:d=2014011812:APCP:surface:36-42 hour acc fcst:
+15:1489701:d=2014011812:APCP:surface:42-45 hour acc fcst:
+16:1608644:d=2014011812:APCP:surface:42-48 hour acc fcst:
+17:1680337:d=2014011812:APCP:surface:48-51 hour acc fcst:
+18:1799018:d=2014011812:APCP:surface:48-54 hour acc fcst:
+19:1870506:d=2014011812:APCP:surface:54-57 hour acc fcst:
+20:1989878:d=2014011812:APCP:surface:54-60 hour acc fcst:
+21:2061439:d=2014011812:APCP:surface:60-63 hour acc fcst:
+22:2180279:d=2014011812:APCP:surface:60-66 hour acc fcst:
+23:2251541:d=2014011812:APCP:surface:66-69 hour acc fcst:
+24:2370899:d=2014011812:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011812:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011812:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014011812:APCP:surface:6-9 hour acc fcst:
+4:1170249:d=2014011812:APCP:surface:9-12 hour acc fcst:
+5:1495352:d=2014011812:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014011812:APCP:surface:15-18 hour acc fcst:
+7:2340498:d=2014011812:APCP:surface:18-21 hour acc fcst:
+8:2763071:d=2014011812:APCP:surface:21-24 hour acc fcst:
+9:3153154:d=2014011812:APCP:surface:24-27 hour acc fcst:
+10:3575727:d=2014011812:APCP:surface:27-30 hour acc fcst:
+11:3900830:d=2014011812:APCP:surface:30-33 hour acc fcst:
+12:4323403:d=2014011812:APCP:surface:33-36 hour acc fcst:
+13:4648506:d=2014011812:APCP:surface:36-39 hour acc fcst:
+14:5071079:d=2014011812:APCP:surface:39-42 hour acc fcst:
+15:5396182:d=2014011812:APCP:surface:42-45 hour acc fcst:
+16:5818755:d=2014011812:APCP:surface:45-48 hour acc fcst:
+17:6143858:d=2014011812:APCP:surface:48-51 hour acc fcst:
+18:6566431:d=2014011812:APCP:surface:51-54 hour acc fcst:
+19:6891534:d=2014011812:APCP:surface:54-57 hour acc fcst:
+20:7314107:d=2014011812:APCP:surface:57-60 hour acc fcst:
+21:7639210:d=2014011812:APCP:surface:60-63 hour acc fcst:
+22:8061783:d=2014011812:APCP:surface:63-66 hour acc fcst:
+23:8386886:d=2014011812:APCP:surface:66-69 hour acc fcst:
+24:8809459:d=2014011812:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.22s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.09s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014011900.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014011900.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+170:27302308:d=2014011912:APCP:surface:0-3 hour acc fcst:
+28:4248554:d=2014011912:APCP:surface:0-6 hour acc fcst:
+44:6119500:d=2014011912:APCP:surface:6-9 hour acc fcst:
+122:18274747:d=2014011912:APCP:surface:6-12 hour acc fcst:
+166:26216205:d=2014011912:APCP:surface:12-15 hour acc fcst:
+141:22401290:d=2014011912:APCP:surface:12-18 hour acc fcst:
+288:47195833:d=2014011912:APCP:surface:18-21 hour acc fcst:
+148:23580020:d=2014011912:APCP:surface:18-24 hour acc fcst:
+102:15004603:d=2014011912:APCP:surface:24-27 hour acc fcst:
+240:39364192:d=2014011912:APCP:surface:24-30 hour acc fcst:
+156:24572425:d=2014011912:APCP:surface:30-33 hour acc fcst:
+204:33069152:d=2014011912:APCP:surface:30-36 hour acc fcst:
+51:7447772:d=2014011912:APCP:surface:36-39 hour acc fcst:
+269:43951411:d=2014011912:APCP:surface:36-42 hour acc fcst:
+234:36081534:d=2014011912:APCP:surface:42-45 hour acc fcst:
+56:8344792:d=2014011912:APCP:surface:42-48 hour acc fcst:
+174:27254606:d=2014011912:APCP:surface:48-51 hour acc fcst:
+58:9712823:d=2014011912:APCP:surface:48-54 hour acc fcst:
+211:34378390:d=2014011912:APCP:surface:54-57 hour acc fcst:
+80:11992592:d=2014011912:APCP:surface:54-60 hour acc fcst:
+133:20861049:d=2014011912:APCP:surface:60-63 hour acc fcst:
+169:26058373:d=2014011912:APCP:surface:60-66 hour acc fcst:
+99:14944158:d=2014011912:APCP:surface:66-69 hour acc fcst:
+167:25903764:d=2014011912:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011912:APCP:surface:0-3 hour acc fcst:
+2:124159:d=2014011912:APCP:surface:0-6 hour acc fcst:
+3:268326:d=2014011912:APCP:surface:6-9 hour acc fcst:
+4:328467:d=2014011912:APCP:surface:6-12 hour acc fcst:
+5:401657:d=2014011912:APCP:surface:12-15 hour acc fcst:
+6:522056:d=2014011912:APCP:surface:12-18 hour acc fcst:
+7:594716:d=2014011912:APCP:surface:18-21 hour acc fcst:
+8:715454:d=2014011912:APCP:surface:18-24 hour acc fcst:
+9:856773:d=2014011912:APCP:surface:24-27 hour acc fcst:
+10:977652:d=2014011912:APCP:surface:24-30 hour acc fcst:
+11:1050420:d=2014011912:APCP:surface:30-33 hour acc fcst:
+12:1170416:d=2014011912:APCP:surface:30-36 hour acc fcst:
+13:1242600:d=2014011912:APCP:surface:36-39 hour acc fcst:
+14:1361818:d=2014011912:APCP:surface:36-42 hour acc fcst:
+15:1501383:d=2014011912:APCP:surface:42-45 hour acc fcst:
+16:1621849:d=2014011912:APCP:surface:42-48 hour acc fcst:
+17:1694320:d=2014011912:APCP:surface:48-51 hour acc fcst:
+18:1815544:d=2014011912:APCP:surface:48-54 hour acc fcst:
+19:1888645:d=2014011912:APCP:surface:54-57 hour acc fcst:
+20:2010644:d=2014011912:APCP:surface:54-60 hour acc fcst:
+21:2083801:d=2014011912:APCP:surface:60-63 hour acc fcst:
+22:2204714:d=2014011912:APCP:surface:60-66 hour acc fcst:
+23:2277667:d=2014011912:APCP:surface:66-69 hour acc fcst:
+24:2398848:d=2014011912:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014011912:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014011912:APCP:surface:3-6 hour acc fcst:
+3:845146:d=2014011912:APCP:surface:6-9 hour acc fcst:
+4:1202739:d=2014011912:APCP:surface:9-12 hour acc fcst:
+5:1527842:d=2014011912:APCP:surface:12-15 hour acc fcst:
+6:1950415:d=2014011912:APCP:surface:15-18 hour acc fcst:
+7:2243028:d=2014011912:APCP:surface:18-21 hour acc fcst:
+8:2665601:d=2014011912:APCP:surface:21-24 hour acc fcst:
+9:3055684:d=2014011912:APCP:surface:24-27 hour acc fcst:
+10:3478257:d=2014011912:APCP:surface:27-30 hour acc fcst:
+11:3803360:d=2014011912:APCP:surface:30-33 hour acc fcst:
+12:4225933:d=2014011912:APCP:surface:33-36 hour acc fcst:
+13:4551036:d=2014011912:APCP:surface:36-39 hour acc fcst:
+14:4973609:d=2014011912:APCP:surface:39-42 hour acc fcst:
+15:5396182:d=2014011912:APCP:surface:42-45 hour acc fcst:
+16:5818755:d=2014011912:APCP:surface:45-48 hour acc fcst:
+17:6143858:d=2014011912:APCP:surface:48-51 hour acc fcst:
+18:6566431:d=2014011912:APCP:surface:51-54 hour acc fcst:
+19:6891534:d=2014011912:APCP:surface:54-57 hour acc fcst:
+20:7314107:d=2014011912:APCP:surface:57-60 hour acc fcst:
+21:7639210:d=2014011912:APCP:surface:60-63 hour acc fcst:
+22:8094273:d=2014011912:APCP:surface:63-66 hour acc fcst:
+23:8419376:d=2014011912:APCP:surface:66-69 hour acc fcst:
+24:8841949:d=2014011912:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.19s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.09s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012000.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012000.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+196:30100739:d=2014012012:APCP:surface:0-3 hour acc fcst:
+265:43284751:d=2014012012:APCP:surface:0-6 hour acc fcst:
+242:37893196:d=2014012012:APCP:surface:6-9 hour acc fcst:
+64:8861712:d=2014012012:APCP:surface:6-12 hour acc fcst:
+223:34832534:d=2014012012:APCP:surface:12-15 hour acc fcst:
+292:47247736:d=2014012012:APCP:surface:12-18 hour acc fcst:
+256:41191318:d=2014012012:APCP:surface:18-21 hour acc fcst:
+251:40204244:d=2014012012:APCP:surface:18-24 hour acc fcst:
+221:35231796:d=2014012012:APCP:surface:24-27 hour acc fcst:
+222:36533249:d=2014012012:APCP:surface:24-30 hour acc fcst:
+177:28118934:d=2014012012:APCP:surface:30-33 hour acc fcst:
+207:32244732:d=2014012012:APCP:surface:30-36 hour acc fcst:
+242:37547423:d=2014012012:APCP:surface:36-39 hour acc fcst:
+92:13957570:d=2014012012:APCP:surface:36-42 hour acc fcst:
+184:28344262:d=2014012012:APCP:surface:42-45 hour acc fcst:
+216:35322765:d=2014012012:APCP:surface:42-48 hour acc fcst:
+144:21918595:d=2014012012:APCP:surface:48-51 hour acc fcst:
+149:22838310:d=2014012012:APCP:surface:48-54 hour acc fcst:
+99:15221537:d=2014012012:APCP:surface:54-57 hour acc fcst:
+150:23522294:d=2014012012:APCP:surface:54-60 hour acc fcst:
+163:24787230:d=2014012012:APCP:surface:60-63 hour acc fcst:
+116:17704981:d=2014012012:APCP:surface:60-66 hour acc fcst:
+113:17423514:d=2014012012:APCP:surface:66-69 hour acc fcst:
+79:13076454:d=2014012012:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012012:APCP:surface:0-3 hour acc fcst:
+2:124617:d=2014012012:APCP:surface:0-6 hour acc fcst:
+3:199802:d=2014012012:APCP:surface:6-9 hour acc fcst:
+4:259942:d=2014012012:APCP:surface:6-12 hour acc fcst:
+5:333402:d=2014012012:APCP:surface:12-15 hour acc fcst:
+6:392286:d=2014012012:APCP:surface:12-18 hour acc fcst:
+7:464989:d=2014012012:APCP:surface:18-21 hour acc fcst:
+8:587142:d=2014012012:APCP:surface:18-24 hour acc fcst:
+9:660799:d=2014012012:APCP:surface:24-27 hour acc fcst:
+10:783626:d=2014012012:APCP:surface:24-30 hour acc fcst:
+11:926485:d=2014012012:APCP:surface:30-33 hour acc fcst:
+12:1049031:d=2014012012:APCP:surface:30-36 hour acc fcst:
+13:1122680:d=2014012012:APCP:surface:36-39 hour acc fcst:
+14:1243676:d=2014012012:APCP:surface:36-42 hour acc fcst:
+15:1316203:d=2014012012:APCP:surface:42-45 hour acc fcst:
+16:1437378:d=2014012012:APCP:surface:42-48 hour acc fcst:
+17:1578652:d=2014012012:APCP:surface:48-51 hour acc fcst:
+18:1700426:d=2014012012:APCP:surface:48-54 hour acc fcst:
+19:1773761:d=2014012012:APCP:surface:54-57 hour acc fcst:
+20:1895722:d=2014012012:APCP:surface:54-60 hour acc fcst:
+21:1968650:d=2014012012:APCP:surface:60-63 hour acc fcst:
+22:2088600:d=2014012012:APCP:surface:60-66 hour acc fcst:
+23:2160348:d=2014012012:APCP:surface:66-69 hour acc fcst:
+24:2280935:d=2014012012:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012012:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014012012:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014012012:APCP:surface:6-9 hour acc fcst:
+4:1105269:d=2014012012:APCP:surface:9-12 hour acc fcst:
+5:1430372:d=2014012012:APCP:surface:12-15 hour acc fcst:
+6:1755475:d=2014012012:APCP:surface:15-18 hour acc fcst:
+7:2080578:d=2014012012:APCP:surface:18-21 hour acc fcst:
+8:2470661:d=2014012012:APCP:surface:21-24 hour acc fcst:
+9:2795764:d=2014012012:APCP:surface:24-27 hour acc fcst:
+10:3218337:d=2014012012:APCP:surface:27-30 hour acc fcst:
+11:3640910:d=2014012012:APCP:surface:30-33 hour acc fcst:
+12:4063483:d=2014012012:APCP:surface:33-36 hour acc fcst:
+13:4388586:d=2014012012:APCP:surface:36-39 hour acc fcst:
+14:4811159:d=2014012012:APCP:surface:39-42 hour acc fcst:
+15:5136262:d=2014012012:APCP:surface:42-45 hour acc fcst:
+16:5558835:d=2014012012:APCP:surface:45-48 hour acc fcst:
+17:5981408:d=2014012012:APCP:surface:48-51 hour acc fcst:
+18:6403981:d=2014012012:APCP:surface:51-54 hour acc fcst:
+19:6729084:d=2014012012:APCP:surface:54-57 hour acc fcst:
+20:7184147:d=2014012012:APCP:surface:57-60 hour acc fcst:
+21:7509250:d=2014012012:APCP:surface:60-63 hour acc fcst:
+22:7931823:d=2014012012:APCP:surface:63-66 hour acc fcst:
+23:8256926:d=2014012012:APCP:surface:66-69 hour acc fcst:
+24:8679499:d=2014012012:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.19s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.07s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012100.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012100.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+193:31264587:d=2014012112:APCP:surface:0-3 hour acc fcst:
+63:8358937:d=2014012112:APCP:surface:0-6 hour acc fcst:
+217:35376944:d=2014012112:APCP:surface:6-9 hour acc fcst:
+30:4389588:d=2014012112:APCP:surface:6-12 hour acc fcst:
+137:21261738:d=2014012112:APCP:surface:12-15 hour acc fcst:
+173:26782260:d=2014012112:APCP:surface:12-18 hour acc fcst:
+89:13066097:d=2014012112:APCP:surface:18-21 hour acc fcst:
+119:17774998:d=2014012112:APCP:surface:18-24 hour acc fcst:
+192:29988595:d=2014012112:APCP:surface:24-27 hour acc fcst:
+208:32835567:d=2014012112:APCP:surface:24-30 hour acc fcst:
+115:17937245:d=2014012112:APCP:surface:30-33 hour acc fcst:
+289:46629647:d=2014012112:APCP:surface:30-36 hour acc fcst:
+270:44058705:d=2014012112:APCP:surface:36-39 hour acc fcst:
+264:43025500:d=2014012112:APCP:surface:36-42 hour acc fcst:
+129:19764205:d=2014012112:APCP:surface:42-45 hour acc fcst:
+203:32652638:d=2014012112:APCP:surface:42-48 hour acc fcst:
+214:35185672:d=2014012112:APCP:surface:48-51 hour acc fcst:
+172:26772873:d=2014012112:APCP:surface:48-54 hour acc fcst:
+225:36624393:d=2014012112:APCP:surface:54-57 hour acc fcst:
+299:48970307:d=2014012112:APCP:surface:54-60 hour acc fcst:
+209:32571526:d=2014012112:APCP:surface:60-63 hour acc fcst:
+30:4709787:d=2014012112:APCP:surface:60-66 hour acc fcst:
+241:39010986:d=2014012112:APCP:surface:66-69 hour acc fcst:
+113:16977146:d=2014012112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012112:APCP:surface:0-3 hour acc fcst:
+2:125409:d=2014012112:APCP:surface:0-6 hour acc fcst:
+3:201271:d=2014012112:APCP:surface:6-9 hour acc fcst:
+4:325205:d=2014012112:APCP:surface:6-12 hour acc fcst:
+5:400093:d=2014012112:APCP:surface:12-15 hour acc fcst:
+6:523069:d=2014012112:APCP:surface:12-18 hour acc fcst:
+7:596815:d=2014012112:APCP:surface:18-21 hour acc fcst:
+8:719038:d=2014012112:APCP:surface:18-24 hour acc fcst:
+9:792809:d=2014012112:APCP:surface:24-27 hour acc fcst:
+10:915611:d=2014012112:APCP:surface:24-30 hour acc fcst:
+11:989505:d=2014012112:APCP:surface:30-33 hour acc fcst:
+12:1111980:d=2014012112:APCP:surface:30-36 hour acc fcst:
+13:1185340:d=2014012112:APCP:surface:36-39 hour acc fcst:
+14:1305721:d=2014012112:APCP:surface:36-42 hour acc fcst:
+15:1377302:d=2014012112:APCP:surface:42-45 hour acc fcst:
+16:1497858:d=2014012112:APCP:surface:42-48 hour acc fcst:
+17:1569780:d=2014012112:APCP:surface:48-51 hour acc fcst:
+18:1691007:d=2014012112:APCP:surface:48-54 hour acc fcst:
+19:1763720:d=2014012112:APCP:surface:54-57 hour acc fcst:
+20:1884860:d=2014012112:APCP:surface:54-60 hour acc fcst:
+21:2026146:d=2014012112:APCP:surface:60-63 hour acc fcst:
+22:2146214:d=2014012112:APCP:surface:60-66 hour acc fcst:
+23:2287118:d=2014012112:APCP:surface:66-69 hour acc fcst:
+24:2407383:d=2014012112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012112:APCP:surface:0-3 hour acc fcst:
+2:390083:d=2014012112:APCP:surface:3-6 hour acc fcst:
+3:715186:d=2014012112:APCP:surface:6-9 hour acc fcst:
+4:1137759:d=2014012112:APCP:surface:9-12 hour acc fcst:
+5:1462862:d=2014012112:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014012112:APCP:surface:15-18 hour acc fcst:
+7:2243028:d=2014012112:APCP:surface:18-21 hour acc fcst:
+8:2665601:d=2014012112:APCP:surface:21-24 hour acc fcst:
+9:2990704:d=2014012112:APCP:surface:24-27 hour acc fcst:
+10:3413277:d=2014012112:APCP:surface:27-30 hour acc fcst:
+11:3738380:d=2014012112:APCP:surface:30-33 hour acc fcst:
+12:4160953:d=2014012112:APCP:surface:33-36 hour acc fcst:
+13:4486056:d=2014012112:APCP:surface:36-39 hour acc fcst:
+14:4908629:d=2014012112:APCP:surface:39-42 hour acc fcst:
+15:5233732:d=2014012112:APCP:surface:42-45 hour acc fcst:
+16:5656305:d=2014012112:APCP:surface:45-48 hour acc fcst:
+17:5981408:d=2014012112:APCP:surface:48-51 hour acc fcst:
+18:6403981:d=2014012112:APCP:surface:51-54 hour acc fcst:
+19:6729084:d=2014012112:APCP:surface:54-57 hour acc fcst:
+20:7151657:d=2014012112:APCP:surface:57-60 hour acc fcst:
+21:7541740:d=2014012112:APCP:surface:60-63 hour acc fcst:
+22:7931823:d=2014012112:APCP:surface:63-66 hour acc fcst:
+23:8354396:d=2014012112:APCP:surface:66-69 hour acc fcst:
+24:8776969:d=2014012112:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.21s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.06s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012200.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012200.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+189:30775698:d=2014012212:APCP:surface:0-3 hour acc fcst:
+304:49836239:d=2014012212:APCP:surface:0-6 hour acc fcst:
+277:44917086:d=2014012212:APCP:surface:6-9 hour acc fcst:
+81:12325028:d=2014012212:APCP:surface:6-12 hour acc fcst:
+269:42924414:d=2014012212:APCP:surface:12-15 hour acc fcst:
+270:43485916:d=2014012212:APCP:surface:12-18 hour acc fcst:
+245:39892820:d=2014012212:APCP:surface:18-21 hour acc fcst:
+45:6945166:d=2014012212:APCP:surface:18-24 hour acc fcst:
+169:27463755:d=2014012212:APCP:surface:24-27 hour acc fcst:
+120:18119632:d=2014012212:APCP:surface:24-30 hour acc fcst:
+286:45973708:d=2014012212:APCP:surface:30-33 hour acc fcst:
+182:29062083:d=2014012212:APCP:surface:30-36 hour acc fcst:
+265:43666594:d=2014012212:APCP:surface:36-39 hour acc fcst:
+253:41158879:d=2014012212:APCP:surface:36-42 hour acc fcst:
+272:44035617:d=2014012212:APCP:surface:42-45 hour acc fcst:
+225:36250119:d=2014012212:APCP:surface:42-48 hour acc fcst:
+97:15132180:d=2014012212:APCP:surface:48-51 hour acc fcst:
+237:38254094:d=2014012212:APCP:surface:48-54 hour acc fcst:
+267:42699287:d=2014012212:APCP:surface:54-57 hour acc fcst:
+40:5420446:d=2014012212:APCP:surface:54-60 hour acc fcst:
+250:39503900:d=2014012212:APCP:surface:60-63 hour acc fcst:
+36:5353870:d=2014012212:APCP:surface:60-66 hour acc fcst:
+277:45034635:d=2014012212:APCP:surface:66-69 hour acc fcst:
+214:33972536:d=2014012212:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012212:APCP:surface:0-3 hour acc fcst:
+2:126089:d=2014012212:APCP:surface:0-6 hour acc fcst:
+3:202286:d=2014012212:APCP:surface:6-9 hour acc fcst:
+4:325807:d=2014012212:APCP:surface:6-12 hour acc fcst:
+5:400464:d=2014012212:APCP:surface:12-15 hour acc fcst:
+6:460528:d=2014012212:APCP:surface:12-18 hour acc fcst:
+7:533889:d=2014012212:APCP:surface:18-21 hour acc fcst:
+8:655808:d=2014012212:APCP:surface:18-24 hour acc fcst:
+9:728785:d=2014012212:APCP:surface:24-27 hour acc fcst:
+10:851259:d=2014012212:APCP:surface:24-30 hour acc fcst:
+11:924810:d=2014012212:APCP:surface:30-33 hour acc fcst:
+12:1047021:d=2014012212:APCP:surface:30-36 hour acc fcst:
+13:1120007:d=2014012212:APCP:surface:36-39 hour acc fcst:
+14:1241120:d=2014012212:APCP:surface:36-42 hour acc fcst:
+15:1382873:d=2014012212:APCP:surface:42-45 hour acc fcst:
+16:1504054:d=2014012212:APCP:surface:42-48 hour acc fcst:
+17:1646281:d=2014012212:APCP:surface:48-51 hour acc fcst:
+18:1767699:d=2014012212:APCP:surface:48-54 hour acc fcst:
+19:1840477:d=2014012212:APCP:surface:54-57 hour acc fcst:
+20:1961820:d=2014012212:APCP:surface:54-60 hour acc fcst:
+21:2102798:d=2014012212:APCP:surface:60-63 hour acc fcst:
+22:2222987:d=2014012212:APCP:surface:60-66 hour acc fcst:
+23:2363315:d=2014012212:APCP:surface:66-69 hour acc fcst:
+24:2483574:d=2014012212:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012212:APCP:surface:0-3 hour acc fcst:
+2:390083:d=2014012212:APCP:surface:3-6 hour acc fcst:
+3:715186:d=2014012212:APCP:surface:6-9 hour acc fcst:
+4:1137759:d=2014012212:APCP:surface:9-12 hour acc fcst:
+5:1495352:d=2014012212:APCP:surface:12-15 hour acc fcst:
+6:1820455:d=2014012212:APCP:surface:15-18 hour acc fcst:
+7:2145558:d=2014012212:APCP:surface:18-21 hour acc fcst:
+8:2568131:d=2014012212:APCP:surface:21-24 hour acc fcst:
+9:2893234:d=2014012212:APCP:surface:24-27 hour acc fcst:
+10:3315807:d=2014012212:APCP:surface:27-30 hour acc fcst:
+11:3608420:d=2014012212:APCP:surface:30-33 hour acc fcst:
+12:4030993:d=2014012212:APCP:surface:33-36 hour acc fcst:
+13:4356096:d=2014012212:APCP:surface:36-39 hour acc fcst:
+14:4778669:d=2014012212:APCP:surface:39-42 hour acc fcst:
+15:5168752:d=2014012212:APCP:surface:42-45 hour acc fcst:
+16:5591325:d=2014012212:APCP:surface:45-48 hour acc fcst:
+17:6013898:d=2014012212:APCP:surface:48-51 hour acc fcst:
+18:6436471:d=2014012212:APCP:surface:51-54 hour acc fcst:
+19:6761574:d=2014012212:APCP:surface:54-57 hour acc fcst:
+20:7184147:d=2014012212:APCP:surface:57-60 hour acc fcst:
+21:7606720:d=2014012212:APCP:surface:60-63 hour acc fcst:
+22:8029293:d=2014012212:APCP:surface:63-66 hour acc fcst:
+23:8451866:d=2014012212:APCP:surface:66-69 hour acc fcst:
+24:8874439:d=2014012212:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.20s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.10s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012300.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012300.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+150:23580554:d=2014012312:APCP:surface:0-3 hour acc fcst:
+219:34186753:d=2014012312:APCP:surface:0-6 hour acc fcst:
+169:26402757:d=2014012312:APCP:surface:6-9 hour acc fcst:
+59:8090075:d=2014012312:APCP:surface:6-12 hour acc fcst:
+87:13164763:d=2014012312:APCP:surface:12-15 hour acc fcst:
+67:10512023:d=2014012312:APCP:surface:12-18 hour acc fcst:
+99:15240272:d=2014012312:APCP:surface:18-21 hour acc fcst:
+267:43815141:d=2014012312:APCP:surface:18-24 hour acc fcst:
+257:41405100:d=2014012312:APCP:surface:24-27 hour acc fcst:
+226:35399464:d=2014012312:APCP:surface:24-30 hour acc fcst:
+194:30347785:d=2014012312:APCP:surface:30-33 hour acc fcst:
+164:26711751:d=2014012312:APCP:surface:30-36 hour acc fcst:
+173:26714726:d=2014012312:APCP:surface:36-39 hour acc fcst:
+298:47701981:d=2014012312:APCP:surface:36-42 hour acc fcst:
+125:18646703:d=2014012312:APCP:surface:42-45 hour acc fcst:
+231:36958696:d=2014012312:APCP:surface:42-48 hour acc fcst:
+282:45628163:d=2014012312:APCP:surface:48-51 hour acc fcst:
+253:40973002:d=2014012312:APCP:surface:48-54 hour acc fcst:
+241:38589790:d=2014012312:APCP:surface:54-57 hour acc fcst:
+81:13081062:d=2014012312:APCP:surface:54-60 hour acc fcst:
+305:49534037:d=2014012312:APCP:surface:60-63 hour acc fcst:
+280:45207125:d=2014012312:APCP:surface:60-66 hour acc fcst:
+193:30747601:d=2014012312:APCP:surface:66-69 hour acc fcst:
+123:18601253:d=2014012312:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012312:APCP:surface:0-3 hour acc fcst:
+2:124580:d=2014012312:APCP:surface:0-6 hour acc fcst:
+3:199711:d=2014012312:APCP:surface:6-9 hour acc fcst:
+4:322994:d=2014012312:APCP:surface:6-12 hour acc fcst:
+5:397430:d=2014012312:APCP:surface:12-15 hour acc fcst:
+6:519921:d=2014012312:APCP:surface:12-18 hour acc fcst:
+7:593077:d=2014012312:APCP:surface:18-21 hour acc fcst:
+8:714599:d=2014012312:APCP:surface:18-24 hour acc fcst:
+9:856960:d=2014012312:APCP:surface:24-27 hour acc fcst:
+10:979746:d=2014012312:APCP:surface:24-30 hour acc fcst:
+11:1122920:d=2014012312:APCP:surface:30-33 hour acc fcst:
+12:1245034:d=2014012312:APCP:surface:30-36 hour acc fcst:
+13:1387016:d=2014012312:APCP:surface:36-39 hour acc fcst:
+14:1508146:d=2014012312:APCP:surface:36-42 hour acc fcst:
+15:1581026:d=2014012312:APCP:surface:42-45 hour acc fcst:
+16:1701858:d=2014012312:APCP:surface:42-48 hour acc fcst:
+17:1774858:d=2014012312:APCP:surface:48-51 hour acc fcst:
+18:1895632:d=2014012312:APCP:surface:48-54 hour acc fcst:
+19:1968500:d=2014012312:APCP:surface:54-57 hour acc fcst:
+20:2088673:d=2014012312:APCP:surface:54-60 hour acc fcst:
+21:2161029:d=2014012312:APCP:surface:60-63 hour acc fcst:
+22:2279749:d=2014012312:APCP:surface:60-66 hour acc fcst:
+23:2351021:d=2014012312:APCP:surface:66-69 hour acc fcst:
+24:2469964:d=2014012312:APCP:surface:66-72 hour acc fcst:
+
+*** FATAL ERROR: could not open file: rain.gfs.2014012312 ***
+
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012312.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012312.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012400.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012400.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+302:49971536:d=2014012412:APCP:surface:0-3 hour acc fcst:
+142:21274749:d=2014012412:APCP:surface:0-6 hour acc fcst:
+168:26464939:d=2014012412:APCP:surface:6-9 hour acc fcst:
+132:20648700:d=2014012412:APCP:surface:6-12 hour acc fcst:
+145:21835373:d=2014012412:APCP:surface:12-15 hour acc fcst:
+241:37859288:d=2014012412:APCP:surface:12-18 hour acc fcst:
+239:38323657:d=2014012412:APCP:surface:18-21 hour acc fcst:
+153:24200835:d=2014012412:APCP:surface:18-24 hour acc fcst:
+105:16054141:d=2014012412:APCP:surface:24-27 hour acc fcst:
+67:10539576:d=2014012412:APCP:surface:24-30 hour acc fcst:
+144:23116568:d=2014012412:APCP:surface:30-33 hour acc fcst:
+299:48394384:d=2014012412:APCP:surface:30-36 hour acc fcst:
+209:32285598:d=2014012412:APCP:surface:36-39 hour acc fcst:
+199:30964375:d=2014012412:APCP:surface:36-42 hour acc fcst:
+32:5160855:d=2014012412:APCP:surface:42-45 hour acc fcst:
+168:25226776:d=2014012412:APCP:surface:42-48 hour acc fcst:
+120:17434281:d=2014012412:APCP:surface:48-51 hour acc fcst:
+223:36259046:d=2014012412:APCP:surface:48-54 hour acc fcst:
+220:34554454:d=2014012412:APCP:surface:54-57 hour acc fcst:
+154:24992102:d=2014012412:APCP:surface:54-60 hour acc fcst:
+274:44887629:d=2014012412:APCP:surface:60-63 hour acc fcst:
+122:19187261:d=2014012412:APCP:surface:60-66 hour acc fcst:
+220:35401148:d=2014012412:APCP:surface:66-69 hour acc fcst:
+273:43497958:d=2014012412:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012412:APCP:surface:0-3 hour acc fcst:
+2:125392:d=2014012412:APCP:surface:0-6 hour acc fcst:
+3:271181:d=2014012412:APCP:surface:6-9 hour acc fcst:
+4:332160:d=2014012412:APCP:surface:6-12 hour acc fcst:
+5:406570:d=2014012412:APCP:surface:12-15 hour acc fcst:
+6:529459:d=2014012412:APCP:surface:12-18 hour acc fcst:
+7:603758:d=2014012412:APCP:surface:18-21 hour acc fcst:
+8:726394:d=2014012412:APCP:surface:18-24 hour acc fcst:
+9:800556:d=2014012412:APCP:surface:24-27 hour acc fcst:
+10:923643:d=2014012412:APCP:surface:24-30 hour acc fcst:
+11:997970:d=2014012412:APCP:surface:30-33 hour acc fcst:
+12:1120533:d=2014012412:APCP:surface:30-36 hour acc fcst:
+13:1194107:d=2014012412:APCP:surface:36-39 hour acc fcst:
+14:1314766:d=2014012412:APCP:surface:36-42 hour acc fcst:
+15:1387284:d=2014012412:APCP:surface:42-45 hour acc fcst:
+16:1508611:d=2014012412:APCP:surface:42-48 hour acc fcst:
+17:1581538:d=2014012412:APCP:surface:48-51 hour acc fcst:
+18:1704465:d=2014012412:APCP:surface:48-54 hour acc fcst:
+19:1778213:d=2014012412:APCP:surface:54-57 hour acc fcst:
+20:1838721:d=2014012412:APCP:surface:54-60 hour acc fcst:
+21:1912024:d=2014012412:APCP:surface:60-63 hour acc fcst:
+22:1971030:d=2014012412:APCP:surface:60-66 hour acc fcst:
+23:2043352:d=2014012412:APCP:surface:66-69 hour acc fcst:
+24:2102519:d=2014012412:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012412:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014012412:APCP:surface:3-6 hour acc fcst:
+3:845146:d=2014012412:APCP:surface:6-9 hour acc fcst:
+4:1170249:d=2014012412:APCP:surface:9-12 hour acc fcst:
+5:1495352:d=2014012412:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014012412:APCP:surface:15-18 hour acc fcst:
+7:2210538:d=2014012412:APCP:surface:18-21 hour acc fcst:
+8:2633111:d=2014012412:APCP:surface:21-24 hour acc fcst:
+9:2958214:d=2014012412:APCP:surface:24-27 hour acc fcst:
+10:3380787:d=2014012412:APCP:surface:27-30 hour acc fcst:
+11:3738380:d=2014012412:APCP:surface:30-33 hour acc fcst:
+12:4160953:d=2014012412:APCP:surface:33-36 hour acc fcst:
+13:4486056:d=2014012412:APCP:surface:36-39 hour acc fcst:
+14:4908629:d=2014012412:APCP:surface:39-42 hour acc fcst:
+15:5233732:d=2014012412:APCP:surface:42-45 hour acc fcst:
+16:5656305:d=2014012412:APCP:surface:45-48 hour acc fcst:
+17:5981408:d=2014012412:APCP:surface:48-51 hour acc fcst:
+18:6403981:d=2014012412:APCP:surface:51-54 hour acc fcst:
+19:6729084:d=2014012412:APCP:surface:54-57 hour acc fcst:
+20:7054187:d=2014012412:APCP:surface:57-60 hour acc fcst:
+21:7411780:d=2014012412:APCP:surface:60-63 hour acc fcst:
+22:7769373:d=2014012412:APCP:surface:63-66 hour acc fcst:
+23:8126966:d=2014012412:APCP:surface:66-69 hour acc fcst:
+24:8484559:d=2014012412:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.27s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.07s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012500.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012500.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+240:39733906:d=2014012512:APCP:surface:0-3 hour acc fcst:
+245:39740979:d=2014012512:APCP:surface:0-6 hour acc fcst:
+298:47645189:d=2014012512:APCP:surface:6-9 hour acc fcst:
+291:46822487:d=2014012512:APCP:surface:6-12 hour acc fcst:
+284:45978328:d=2014012512:APCP:surface:12-15 hour acc fcst:
+308:50324632:d=2014012512:APCP:surface:12-18 hour acc fcst:
+268:42767268:d=2014012512:APCP:surface:18-21 hour acc fcst:
+247:39233472:d=2014012512:APCP:surface:18-24 hour acc fcst:
+274:43293808:d=2014012512:APCP:surface:24-27 hour acc fcst:
+103:16346589:d=2014012512:APCP:surface:24-30 hour acc fcst:
+82:12373883:d=2014012512:APCP:surface:30-33 hour acc fcst:
+101:15419089:d=2014012512:APCP:surface:30-36 hour acc fcst:
+118:19003538:d=2014012512:APCP:surface:36-39 hour acc fcst:
+97:15148758:d=2014012512:APCP:surface:36-42 hour acc fcst:
+150:23599815:d=2014012512:APCP:surface:42-45 hour acc fcst:
+253:40356851:d=2014012512:APCP:surface:42-48 hour acc fcst:
+307:50433948:d=2014012512:APCP:surface:48-51 hour acc fcst:
+225:36063856:d=2014012512:APCP:surface:48-54 hour acc fcst:
+109:16379276:d=2014012512:APCP:surface:54-57 hour acc fcst:
+179:28463174:d=2014012512:APCP:surface:54-60 hour acc fcst:
+300:48432401:d=2014012512:APCP:surface:60-63 hour acc fcst:
+146:22147063:d=2014012512:APCP:surface:60-66 hour acc fcst:
+262:43010338:d=2014012512:APCP:surface:66-69 hour acc fcst:
+248:39127877:d=2014012512:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012512:APCP:surface:0-3 hour acc fcst:
+2:126382:d=2014012512:APCP:surface:0-6 hour acc fcst:
+3:202788:d=2014012512:APCP:surface:6-9 hour acc fcst:
+4:264043:d=2014012512:APCP:surface:6-12 hour acc fcst:
+5:338571:d=2014012512:APCP:surface:12-15 hour acc fcst:
+6:398995:d=2014012512:APCP:surface:12-18 hour acc fcst:
+7:472525:d=2014012512:APCP:surface:18-21 hour acc fcst:
+8:595216:d=2014012512:APCP:surface:18-24 hour acc fcst:
+9:669163:d=2014012512:APCP:surface:24-27 hour acc fcst:
+10:792414:d=2014012512:APCP:surface:24-30 hour acc fcst:
+11:866641:d=2014012512:APCP:surface:30-33 hour acc fcst:
+12:990143:d=2014012512:APCP:surface:30-36 hour acc fcst:
+13:1063895:d=2014012512:APCP:surface:36-39 hour acc fcst:
+14:1185727:d=2014012512:APCP:surface:36-42 hour acc fcst:
+15:1258540:d=2014012512:APCP:surface:42-45 hour acc fcst:
+16:1380243:d=2014012512:APCP:surface:42-48 hour acc fcst:
+17:1453295:d=2014012512:APCP:surface:48-51 hour acc fcst:
+18:1575865:d=2014012512:APCP:surface:48-54 hour acc fcst:
+19:1649457:d=2014012512:APCP:surface:54-57 hour acc fcst:
+20:1771854:d=2014012512:APCP:surface:54-60 hour acc fcst:
+21:1845149:d=2014012512:APCP:surface:60-63 hour acc fcst:
+22:1967238:d=2014012512:APCP:surface:60-66 hour acc fcst:
+23:2040509:d=2014012512:APCP:surface:66-69 hour acc fcst:
+24:2162761:d=2014012512:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012512:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014012512:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014012512:APCP:surface:6-9 hour acc fcst:
+4:1105269:d=2014012512:APCP:surface:9-12 hour acc fcst:
+5:1462862:d=2014012512:APCP:surface:12-15 hour acc fcst:
+6:1820455:d=2014012512:APCP:surface:15-18 hour acc fcst:
+7:2145558:d=2014012512:APCP:surface:18-21 hour acc fcst:
+8:2568131:d=2014012512:APCP:surface:21-24 hour acc fcst:
+9:2893234:d=2014012512:APCP:surface:24-27 hour acc fcst:
+10:3315807:d=2014012512:APCP:surface:27-30 hour acc fcst:
+11:3640910:d=2014012512:APCP:surface:30-33 hour acc fcst:
+12:4063483:d=2014012512:APCP:surface:33-36 hour acc fcst:
+13:4388586:d=2014012512:APCP:surface:36-39 hour acc fcst:
+14:4811159:d=2014012512:APCP:surface:39-42 hour acc fcst:
+15:5136262:d=2014012512:APCP:surface:42-45 hour acc fcst:
+16:5591325:d=2014012512:APCP:surface:45-48 hour acc fcst:
+17:5916428:d=2014012512:APCP:surface:48-51 hour acc fcst:
+18:6339001:d=2014012512:APCP:surface:51-54 hour acc fcst:
+19:6664104:d=2014012512:APCP:surface:54-57 hour acc fcst:
+20:7086677:d=2014012512:APCP:surface:57-60 hour acc fcst:
+21:7444270:d=2014012512:APCP:surface:60-63 hour acc fcst:
+22:7866843:d=2014012512:APCP:surface:63-66 hour acc fcst:
+23:8191946:d=2014012512:APCP:surface:66-69 hour acc fcst:
+24:8647009:d=2014012512:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.22s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.06s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012600.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012600.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+64:8264530:d=2014012612:APCP:surface:0-3 hour acc fcst:
+86:12580740:d=2014012612:APCP:surface:0-6 hour acc fcst:
+217:34324686:d=2014012612:APCP:surface:6-9 hour acc fcst:
+77:11295110:d=2014012612:APCP:surface:6-12 hour acc fcst:
+152:22799829:d=2014012612:APCP:surface:12-15 hour acc fcst:
+74:10933949:d=2014012612:APCP:surface:12-18 hour acc fcst:
+146:22878999:d=2014012612:APCP:surface:18-21 hour acc fcst:
+245:39481895:d=2014012612:APCP:surface:18-24 hour acc fcst:
+190:30657019:d=2014012612:APCP:surface:24-27 hour acc fcst:
+153:23892455:d=2014012612:APCP:surface:24-30 hour acc fcst:
+244:38862618:d=2014012612:APCP:surface:30-33 hour acc fcst:
+87:13563891:d=2014012612:APCP:surface:30-36 hour acc fcst:
+128:20093055:d=2014012612:APCP:surface:36-39 hour acc fcst:
+213:34505876:d=2014012612:APCP:surface:36-42 hour acc fcst:
+211:33833993:d=2014012612:APCP:surface:42-45 hour acc fcst:
+254:40194245:d=2014012612:APCP:surface:42-48 hour acc fcst:
+167:26578104:d=2014012612:APCP:surface:48-51 hour acc fcst:
+202:31707325:d=2014012612:APCP:surface:48-54 hour acc fcst:
+107:15487465:d=2014012612:APCP:surface:54-57 hour acc fcst:
+191:30235862:d=2014012612:APCP:surface:54-60 hour acc fcst:
+177:26667552:d=2014012612:APCP:surface:60-63 hour acc fcst:
+200:31444035:d=2014012612:APCP:surface:60-66 hour acc fcst:
+184:27879667:d=2014012612:APCP:surface:66-69 hour acc fcst:
+34:4755976:d=2014012612:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012612:APCP:surface:30-33 hour acc fcst:
+2:123325:d=2014012612:APCP:surface:30-36 hour acc fcst:
+3:197437:d=2014012612:APCP:surface:36-39 hour acc fcst:
+4:257250:d=2014012612:APCP:surface:36-42 hour acc fcst:
+5:330594:d=2014012612:APCP:surface:42-45 hour acc fcst:
+6:453155:d=2014012612:APCP:surface:42-48 hour acc fcst:
+7:526705:d=2014012612:APCP:surface:48-51 hour acc fcst:
+8:649335:d=2014012612:APCP:surface:48-54 hour acc fcst:
+9:722990:d=2014012612:APCP:surface:54-57 hour acc fcst:
+10:845590:d=2014012612:APCP:surface:54-60 hour acc fcst:
+11:919023:d=2014012612:APCP:surface:60-63 hour acc fcst:
+12:1040196:d=2014012612:APCP:surface:60-66 hour acc fcst:
+13:1112754:d=2014012612:APCP:surface:66-69 hour acc fcst:
+14:1172007:d=2014012612:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012612:APCP:surface:30-33 hour acc fcst:
+2:422573:d=2014012612:APCP:surface:33-36 hour acc fcst:
+3:780166:d=2014012612:APCP:surface:36-39 hour acc fcst:
+4:1105269:d=2014012612:APCP:surface:39-42 hour acc fcst:
+5:1430372:d=2014012612:APCP:surface:42-45 hour acc fcst:
+6:1852945:d=2014012612:APCP:surface:45-48 hour acc fcst:
+7:2178048:d=2014012612:APCP:surface:48-51 hour acc fcst:
+8:2633111:d=2014012612:APCP:surface:51-54 hour acc fcst:
+9:2958214:d=2014012612:APCP:surface:54-57 hour acc fcst:
+10:3413277:d=2014012612:APCP:surface:57-60 hour acc fcst:
+11:3738380:d=2014012612:APCP:surface:60-63 hour acc fcst:
+12:4160953:d=2014012612:APCP:surface:63-66 hour acc fcst:
+13:4518546:d=2014012612:APCP:surface:66-69 hour acc fcst:
+14:4843649:d=2014012612:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 3638880 values from 1 variable over 14 timesteps ( 0.14s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 519840 values from 1 variable over 2 timesteps ( 0.05s )
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012700.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012700.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+222:35702180:d=2014012712:APCP:surface:0-3 hour acc fcst:
+36:5263031:d=2014012712:APCP:surface:0-6 hour acc fcst:
+228:35266098:d=2014012712:APCP:surface:6-9 hour acc fcst:
+66:10932665:d=2014012712:APCP:surface:6-12 hour acc fcst:
+94:13871768:d=2014012712:APCP:surface:12-15 hour acc fcst:
+297:47561182:d=2014012712:APCP:surface:12-18 hour acc fcst:
+223:36147128:d=2014012712:APCP:surface:18-21 hour acc fcst:
+105:16560006:d=2014012712:APCP:surface:18-24 hour acc fcst:
+222:36672768:d=2014012712:APCP:surface:24-27 hour acc fcst:
+232:36192644:d=2014012712:APCP:surface:24-30 hour acc fcst:
+162:25334072:d=2014012712:APCP:surface:30-33 hour acc fcst:
+31:4537920:d=2014012712:APCP:surface:30-36 hour acc fcst:
+235:37666113:d=2014012712:APCP:surface:36-39 hour acc fcst:
+270:43218696:d=2014012712:APCP:surface:36-42 hour acc fcst:
+281:44382468:d=2014012712:APCP:surface:42-45 hour acc fcst:
+243:39044492:d=2014012712:APCP:surface:42-48 hour acc fcst:
+155:24620569:d=2014012712:APCP:surface:48-51 hour acc fcst:
+129:20908070:d=2014012712:APCP:surface:48-54 hour acc fcst:
+217:34691967:d=2014012712:APCP:surface:54-57 hour acc fcst:
+171:26930003:d=2014012712:APCP:surface:54-60 hour acc fcst:
+61:8850546:d=2014012712:APCP:surface:60-63 hour acc fcst:
+170:26481189:d=2014012712:APCP:surface:60-66 hour acc fcst:
+255:40687914:d=2014012712:APCP:surface:66-69 hour acc fcst:
+218:34864930:d=2014012712:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012712:APCP:surface:0-3 hour acc fcst:
+2:126565:d=2014012712:APCP:surface:0-6 hour acc fcst:
+3:203421:d=2014012712:APCP:surface:6-9 hour acc fcst:
+4:327722:d=2014012712:APCP:surface:6-12 hour acc fcst:
+5:472339:d=2014012712:APCP:surface:12-15 hour acc fcst:
+6:595838:d=2014012712:APCP:surface:12-18 hour acc fcst:
+7:670441:d=2014012712:APCP:surface:18-21 hour acc fcst:
+8:793414:d=2014012712:APCP:surface:18-24 hour acc fcst:
+9:937274:d=2014012712:APCP:surface:24-27 hour acc fcst:
+10:1060239:d=2014012712:APCP:surface:24-30 hour acc fcst:
+11:1203826:d=2014012712:APCP:surface:30-33 hour acc fcst:
+12:1326540:d=2014012712:APCP:surface:30-36 hour acc fcst:
+13:1400047:d=2014012712:APCP:surface:36-39 hour acc fcst:
+14:1521495:d=2014012712:APCP:surface:36-42 hour acc fcst:
+15:1593856:d=2014012712:APCP:surface:42-45 hour acc fcst:
+16:1715069:d=2014012712:APCP:surface:42-48 hour acc fcst:
+17:1787983:d=2014012712:APCP:surface:48-51 hour acc fcst:
+18:1848015:d=2014012712:APCP:surface:48-54 hour acc fcst:
+19:1921108:d=2014012712:APCP:surface:54-57 hour acc fcst:
+20:2042662:d=2014012712:APCP:surface:54-60 hour acc fcst:
+21:2115238:d=2014012712:APCP:surface:60-63 hour acc fcst:
+22:2234825:d=2014012712:APCP:surface:60-66 hour acc fcst:
+23:2305857:d=2014012712:APCP:surface:66-69 hour acc fcst:
+24:2363532:d=2014012712:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012712:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014012712:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014012712:APCP:surface:6-9 hour acc fcst:
+4:1170249:d=2014012712:APCP:surface:9-12 hour acc fcst:
+5:1592822:d=2014012712:APCP:surface:12-15 hour acc fcst:
+6:2047885:d=2014012712:APCP:surface:15-18 hour acc fcst:
+7:2372988:d=2014012712:APCP:surface:18-21 hour acc fcst:
+8:2763071:d=2014012712:APCP:surface:21-24 hour acc fcst:
+9:3153154:d=2014012712:APCP:surface:24-27 hour acc fcst:
+10:3575727:d=2014012712:APCP:surface:27-30 hour acc fcst:
+11:3998300:d=2014012712:APCP:surface:30-33 hour acc fcst:
+12:4420873:d=2014012712:APCP:surface:33-36 hour acc fcst:
+13:4745976:d=2014012712:APCP:surface:36-39 hour acc fcst:
+14:5168549:d=2014012712:APCP:surface:39-42 hour acc fcst:
+15:5461162:d=2014012712:APCP:surface:42-45 hour acc fcst:
+16:5883735:d=2014012712:APCP:surface:45-48 hour acc fcst:
+17:6208838:d=2014012712:APCP:surface:48-51 hour acc fcst:
+18:6533941:d=2014012712:APCP:surface:51-54 hour acc fcst:
+19:6859044:d=2014012712:APCP:surface:54-57 hour acc fcst:
+20:7314107:d=2014012712:APCP:surface:57-60 hour acc fcst:
+21:7639210:d=2014012712:APCP:surface:60-63 hour acc fcst:
+22:8094273:d=2014012712:APCP:surface:63-66 hour acc fcst:
+23:8451866:d=2014012712:APCP:surface:66-69 hour acc fcst:
+24:8776969:d=2014012712:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.19s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.11s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012800.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012800.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+225:35527144:d=2014012812:APCP:surface:0-3 hour acc fcst:
+70:10117199:d=2014012812:APCP:surface:0-6 hour acc fcst:
+214:33861578:d=2014012812:APCP:surface:6-9 hour acc fcst:
+212:32891066:d=2014012812:APCP:surface:6-12 hour acc fcst:
+75:10486729:d=2014012812:APCP:surface:12-15 hour acc fcst:
+184:28329536:d=2014012812:APCP:surface:12-18 hour acc fcst:
+167:26119940:d=2014012812:APCP:surface:18-21 hour acc fcst:
+269:43868771:d=2014012812:APCP:surface:18-24 hour acc fcst:
+139:22923229:d=2014012812:APCP:surface:24-27 hour acc fcst:
+198:32034382:d=2014012812:APCP:surface:24-30 hour acc fcst:
+157:25136955:d=2014012812:APCP:surface:30-33 hour acc fcst:
+207:33360993:d=2014012812:APCP:surface:30-36 hour acc fcst:
+249:39626889:d=2014012812:APCP:surface:36-39 hour acc fcst:
+219:34608070:d=2014012812:APCP:surface:36-42 hour acc fcst:
+247:39794863:d=2014012812:APCP:surface:42-45 hour acc fcst:
+233:37195184:d=2014012812:APCP:surface:42-48 hour acc fcst:
+230:36534826:d=2014012812:APCP:surface:48-51 hour acc fcst:
+237:37990850:d=2014012812:APCP:surface:48-54 hour acc fcst:
+168:26346897:d=2014012812:APCP:surface:54-57 hour acc fcst:
+254:41076829:d=2014012812:APCP:surface:54-60 hour acc fcst:
+93:14480217:d=2014012812:APCP:surface:60-63 hour acc fcst:
+237:37888887:d=2014012812:APCP:surface:60-66 hour acc fcst:
+280:44768368:d=2014012812:APCP:surface:66-69 hour acc fcst:
+148:22791778:d=2014012812:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012812:APCP:surface:0-3 hour acc fcst:
+2:125867:d=2014012812:APCP:surface:0-6 hour acc fcst:
+3:272271:d=2014012812:APCP:surface:6-9 hour acc fcst:
+4:396083:d=2014012812:APCP:surface:6-12 hour acc fcst:
+5:470995:d=2014012812:APCP:surface:12-15 hour acc fcst:
+6:531525:d=2014012812:APCP:surface:12-18 hour acc fcst:
+7:605468:d=2014012812:APCP:surface:18-21 hour acc fcst:
+8:665473:d=2014012812:APCP:surface:18-24 hour acc fcst:
+9:739016:d=2014012812:APCP:surface:24-27 hour acc fcst:
+10:799136:d=2014012812:APCP:surface:24-30 hour acc fcst:
+11:872636:d=2014012812:APCP:surface:30-33 hour acc fcst:
+12:932777:d=2014012812:APCP:surface:30-36 hour acc fcst:
+13:1005455:d=2014012812:APCP:surface:36-39 hour acc fcst:
+14:1063728:d=2014012812:APCP:surface:36-42 hour acc fcst:
+15:1134684:d=2014012812:APCP:surface:42-45 hour acc fcst:
+16:1253275:d=2014012812:APCP:surface:42-48 hour acc fcst:
+17:1324079:d=2014012812:APCP:surface:48-51 hour acc fcst:
+18:1443740:d=2014012812:APCP:surface:48-54 hour acc fcst:
+19:1515232:d=2014012812:APCP:surface:54-57 hour acc fcst:
+20:1635433:d=2014012812:APCP:surface:54-60 hour acc fcst:
+21:1706988:d=2014012812:APCP:surface:60-63 hour acc fcst:
+22:1825076:d=2014012812:APCP:surface:60-66 hour acc fcst:
+23:1895259:d=2014012812:APCP:surface:66-69 hour acc fcst:
+24:1953073:d=2014012812:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012812:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014012812:APCP:surface:3-6 hour acc fcst:
+3:845146:d=2014012812:APCP:surface:6-9 hour acc fcst:
+4:1267719:d=2014012812:APCP:surface:9-12 hour acc fcst:
+5:1592822:d=2014012812:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014012812:APCP:surface:15-18 hour acc fcst:
+7:2275518:d=2014012812:APCP:surface:18-21 hour acc fcst:
+8:2633111:d=2014012812:APCP:surface:21-24 hour acc fcst:
+9:2958214:d=2014012812:APCP:surface:24-27 hour acc fcst:
+10:3315807:d=2014012812:APCP:surface:27-30 hour acc fcst:
+11:3673400:d=2014012812:APCP:surface:30-33 hour acc fcst:
+12:4030993:d=2014012812:APCP:surface:33-36 hour acc fcst:
+13:4388586:d=2014012812:APCP:surface:36-39 hour acc fcst:
+14:4713689:d=2014012812:APCP:surface:39-42 hour acc fcst:
+15:5038792:d=2014012812:APCP:surface:42-45 hour acc fcst:
+16:5461365:d=2014012812:APCP:surface:45-48 hour acc fcst:
+17:5786468:d=2014012812:APCP:surface:48-51 hour acc fcst:
+18:6209041:d=2014012812:APCP:surface:51-54 hour acc fcst:
+19:6534144:d=2014012812:APCP:surface:54-57 hour acc fcst:
+20:6956717:d=2014012812:APCP:surface:57-60 hour acc fcst:
+21:7281820:d=2014012812:APCP:surface:60-63 hour acc fcst:
+22:7704393:d=2014012812:APCP:surface:63-66 hour acc fcst:
+23:8061986:d=2014012812:APCP:surface:66-69 hour acc fcst:
+24:8387089:d=2014012812:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.19s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.05s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014012900.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014012900.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+236:39724089:d=2014012912:APCP:surface:0-3 hour acc fcst:
+288:46488584:d=2014012912:APCP:surface:0-6 hour acc fcst:
+116:18853539:d=2014012912:APCP:surface:6-9 hour acc fcst:
+241:37824552:d=2014012912:APCP:surface:6-12 hour acc fcst:
+153:24962578:d=2014012912:APCP:surface:12-15 hour acc fcst:
+60:9426095:d=2014012912:APCP:surface:12-18 hour acc fcst:
+133:21388630:d=2014012912:APCP:surface:18-21 hour acc fcst:
+81:13211952:d=2014012912:APCP:surface:18-24 hour acc fcst:
+64:10384396:d=2014012912:APCP:surface:24-27 hour acc fcst:
+207:33444273:d=2014012912:APCP:surface:24-30 hour acc fcst:
+151:23551604:d=2014012912:APCP:surface:30-33 hour acc fcst:
+289:47689311:d=2014012912:APCP:surface:30-36 hour acc fcst:
+252:41447425:d=2014012912:APCP:surface:36-39 hour acc fcst:
+112:17726184:d=2014012912:APCP:surface:36-42 hour acc fcst:
+70:11243519:d=2014012912:APCP:surface:42-45 hour acc fcst:
+21:3267350:d=2014012912:APCP:surface:42-48 hour acc fcst:
+307:50342695:d=2014012912:APCP:surface:48-51 hour acc fcst:
+115:18117513:d=2014012912:APCP:surface:48-54 hour acc fcst:
+207:32220580:d=2014012912:APCP:surface:54-57 hour acc fcst:
+106:17155269:d=2014012912:APCP:surface:54-60 hour acc fcst:
+296:48225278:d=2014012912:APCP:surface:60-63 hour acc fcst:
+301:49342403:d=2014012912:APCP:surface:60-66 hour acc fcst:
+74:12001796:d=2014012912:APCP:surface:66-69 hour acc fcst:
+182:28403979:d=2014012912:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012912:APCP:surface:0-3 hour acc fcst:
+2:126478:d=2014012912:APCP:surface:0-6 hour acc fcst:
+3:202557:d=2014012912:APCP:surface:6-9 hour acc fcst:
+4:326027:d=2014012912:APCP:surface:6-12 hour acc fcst:
+5:400154:d=2014012912:APCP:surface:12-15 hour acc fcst:
+6:521406:d=2014012912:APCP:surface:12-18 hour acc fcst:
+7:593705:d=2014012912:APCP:surface:18-21 hour acc fcst:
+8:714171:d=2014012912:APCP:surface:18-24 hour acc fcst:
+9:786160:d=2014012912:APCP:surface:24-27 hour acc fcst:
+10:907280:d=2014012912:APCP:surface:24-30 hour acc fcst:
+11:1049313:d=2014012912:APCP:surface:30-33 hour acc fcst:
+12:1170695:d=2014012912:APCP:surface:30-36 hour acc fcst:
+13:1243088:d=2014012912:APCP:surface:36-39 hour acc fcst:
+14:1362412:d=2014012912:APCP:surface:36-42 hour acc fcst:
+15:1433499:d=2014012912:APCP:surface:42-45 hour acc fcst:
+16:1491715:d=2014012912:APCP:surface:42-48 hour acc fcst:
+17:1563357:d=2014012912:APCP:surface:48-51 hour acc fcst:
+18:1684529:d=2014012912:APCP:surface:48-54 hour acc fcst:
+19:1756750:d=2014012912:APCP:surface:54-57 hour acc fcst:
+20:1815807:d=2014012912:APCP:surface:54-60 hour acc fcst:
+21:1887911:d=2014012912:APCP:surface:60-63 hour acc fcst:
+22:1946116:d=2014012912:APCP:surface:60-66 hour acc fcst:
+23:2017707:d=2014012912:APCP:surface:66-69 hour acc fcst:
+24:2076313:d=2014012912:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014012912:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014012912:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014012912:APCP:surface:6-9 hour acc fcst:
+4:1170249:d=2014012912:APCP:surface:9-12 hour acc fcst:
+5:1495352:d=2014012912:APCP:surface:12-15 hour acc fcst:
+6:1917925:d=2014012912:APCP:surface:15-18 hour acc fcst:
+7:2243028:d=2014012912:APCP:surface:18-21 hour acc fcst:
+8:2698091:d=2014012912:APCP:surface:21-24 hour acc fcst:
+9:3023194:d=2014012912:APCP:surface:24-27 hour acc fcst:
+10:3445767:d=2014012912:APCP:surface:27-30 hour acc fcst:
+11:3868340:d=2014012912:APCP:surface:30-33 hour acc fcst:
+12:4290913:d=2014012912:APCP:surface:33-36 hour acc fcst:
+13:4616016:d=2014012912:APCP:surface:36-39 hour acc fcst:
+14:5038589:d=2014012912:APCP:surface:39-42 hour acc fcst:
+15:5396182:d=2014012912:APCP:surface:42-45 hour acc fcst:
+16:5753775:d=2014012912:APCP:surface:45-48 hour acc fcst:
+17:6078878:d=2014012912:APCP:surface:48-51 hour acc fcst:
+18:6501451:d=2014012912:APCP:surface:51-54 hour acc fcst:
+19:6826554:d=2014012912:APCP:surface:54-57 hour acc fcst:
+20:7151657:d=2014012912:APCP:surface:57-60 hour acc fcst:
+21:7476760:d=2014012912:APCP:surface:60-63 hour acc fcst:
+22:7801863:d=2014012912:APCP:surface:63-66 hour acc fcst:
+23:8126966:d=2014012912:APCP:surface:66-69 hour acc fcst:
+24:8452069:d=2014012912:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.22s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.11s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014013000.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014013000.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+208:34299190:d=2014013012:APCP:surface:0-3 hour acc fcst:
+143:22388097:d=2014013012:APCP:surface:0-6 hour acc fcst:
+211:32834707:d=2014013012:APCP:surface:6-9 hour acc fcst:
+232:36867114:d=2014013012:APCP:surface:6-12 hour acc fcst:
+252:39395468:d=2014013012:APCP:surface:12-15 hour acc fcst:
+46:7123591:d=2014013012:APCP:surface:12-18 hour acc fcst:
+229:36249090:d=2014013012:APCP:surface:18-21 hour acc fcst:
+125:18448638:d=2014013012:APCP:surface:18-24 hour acc fcst:
+266:42408661:d=2014013012:APCP:surface:24-27 hour acc fcst:
+186:29155376:d=2014013012:APCP:surface:24-30 hour acc fcst:
+102:15550113:d=2014013012:APCP:surface:30-33 hour acc fcst:
+138:20897608:d=2014013012:APCP:surface:30-36 hour acc fcst:
+195:30900852:d=2014013012:APCP:surface:36-39 hour acc fcst:
+172:27483706:d=2014013012:APCP:surface:36-42 hour acc fcst:
+162:26043098:d=2014013012:APCP:surface:42-45 hour acc fcst:
+207:33477997:d=2014013012:APCP:surface:42-48 hour acc fcst:
+201:30616171:d=2014013012:APCP:surface:48-51 hour acc fcst:
+75:12111887:d=2014013012:APCP:surface:48-54 hour acc fcst:
+206:32513986:d=2014013012:APCP:surface:54-57 hour acc fcst:
+214:33935260:d=2014013012:APCP:surface:54-60 hour acc fcst:
+201:31079364:d=2014013012:APCP:surface:60-63 hour acc fcst:
+176:27256597:d=2014013012:APCP:surface:60-66 hour acc fcst:
+273:42897097:d=2014013012:APCP:surface:66-69 hour acc fcst:
+194:29803949:d=2014013012:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014013012:APCP:surface:0-3 hour acc fcst:
+2:124940:d=2014013012:APCP:surface:0-6 hour acc fcst:
+3:199938:d=2014013012:APCP:surface:6-9 hour acc fcst:
+4:260111:d=2014013012:APCP:surface:6-12 hour acc fcst:
+5:333259:d=2014013012:APCP:surface:12-15 hour acc fcst:
+6:392502:d=2014013012:APCP:surface:12-18 hour acc fcst:
+7:464858:d=2014013012:APCP:surface:18-21 hour acc fcst:
+8:523765:d=2014013012:APCP:surface:18-24 hour acc fcst:
+9:596384:d=2014013012:APCP:surface:24-27 hour acc fcst:
+10:655856:d=2014013012:APCP:surface:24-30 hour acc fcst:
+11:729161:d=2014013012:APCP:surface:30-33 hour acc fcst:
+12:789480:d=2014013012:APCP:surface:30-36 hour acc fcst:
+13:862847:d=2014013012:APCP:surface:36-39 hour acc fcst:
+14:984416:d=2014013012:APCP:surface:36-42 hour acc fcst:
+15:1057189:d=2014013012:APCP:surface:42-45 hour acc fcst:
+16:1179338:d=2014013012:APCP:surface:42-48 hour acc fcst:
+17:1252294:d=2014013012:APCP:surface:48-51 hour acc fcst:
+18:1375047:d=2014013012:APCP:surface:48-54 hour acc fcst:
+19:1448675:d=2014013012:APCP:surface:54-57 hour acc fcst:
+20:1571093:d=2014013012:APCP:surface:54-60 hour acc fcst:
+21:1643988:d=2014013012:APCP:surface:60-63 hour acc fcst:
+22:1702470:d=2014013012:APCP:surface:60-66 hour acc fcst:
+23:1774286:d=2014013012:APCP:surface:66-69 hour acc fcst:
+24:1895728:d=2014013012:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014013012:APCP:surface:0-3 hour acc fcst:
+2:422573:d=2014013012:APCP:surface:3-6 hour acc fcst:
+3:747676:d=2014013012:APCP:surface:6-9 hour acc fcst:
+4:1105269:d=2014013012:APCP:surface:9-12 hour acc fcst:
+5:1462862:d=2014013012:APCP:surface:12-15 hour acc fcst:
+6:1820455:d=2014013012:APCP:surface:15-18 hour acc fcst:
+7:2178048:d=2014013012:APCP:surface:18-21 hour acc fcst:
+8:2568131:d=2014013012:APCP:surface:21-24 hour acc fcst:
+9:2925724:d=2014013012:APCP:surface:24-27 hour acc fcst:
+10:3250827:d=2014013012:APCP:surface:27-30 hour acc fcst:
+11:3608420:d=2014013012:APCP:surface:30-33 hour acc fcst:
+12:3933523:d=2014013012:APCP:surface:33-36 hour acc fcst:
+13:4258626:d=2014013012:APCP:surface:36-39 hour acc fcst:
+14:4681199:d=2014013012:APCP:surface:39-42 hour acc fcst:
+15:5006302:d=2014013012:APCP:surface:42-45 hour acc fcst:
+16:5461365:d=2014013012:APCP:surface:45-48 hour acc fcst:
+17:5786468:d=2014013012:APCP:surface:48-51 hour acc fcst:
+18:6241531:d=2014013012:APCP:surface:51-54 hour acc fcst:
+19:6566634:d=2014013012:APCP:surface:54-57 hour acc fcst:
+20:6989207:d=2014013012:APCP:surface:57-60 hour acc fcst:
+21:7314310:d=2014013012:APCP:surface:60-63 hour acc fcst:
+22:7639413:d=2014013012:APCP:surface:63-66 hour acc fcst:
+23:7964516:d=2014013012:APCP:surface:66-69 hour acc fcst:
+24:8387089:d=2014013012:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.20s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.10s )
+
+*** FATAL ERROR: could not open file: tmp.grib2 ***
+
+00 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Open failed on >GFS_merge_2014013100.nc<
+No such file or directory
+
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Open failed on >forecast_2014013100.nc<
+No such file or directory
+
+mv: impossível fazer stat em `fcst000000.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000001.nc': Arquivo ou diretório não encontrado
+mv: impossível fazer stat em `fcst000002.nc': Arquivo ou diretório não encontrado
+111:16587493:d=2014013112:APCP:surface:0-3 hour acc fcst:
+41:6065908:d=2014013112:APCP:surface:0-6 hour acc fcst:
+249:39490821:d=2014013112:APCP:surface:6-9 hour acc fcst:
+229:36592315:d=2014013112:APCP:surface:6-12 hour acc fcst:
+294:47524721:d=2014013112:APCP:surface:12-15 hour acc fcst:
+255:39991809:d=2014013112:APCP:surface:12-18 hour acc fcst:
+264:41505084:d=2014013112:APCP:surface:18-21 hour acc fcst:
+212:33053515:d=2014013112:APCP:surface:18-24 hour acc fcst:
+248:39458903:d=2014013112:APCP:surface:24-27 hour acc fcst:
+248:40035566:d=2014013112:APCP:surface:24-30 hour acc fcst:
+279:45535229:d=2014013112:APCP:surface:30-33 hour acc fcst:
+297:48880258:d=2014013112:APCP:surface:30-36 hour acc fcst:
+296:47891049:d=2014013112:APCP:surface:36-39 hour acc fcst:
+281:46156475:d=2014013112:APCP:surface:36-42 hour acc fcst:
+232:37607546:d=2014013112:APCP:surface:42-45 hour acc fcst:
+260:41544224:d=2014013112:APCP:surface:42-48 hour acc fcst:
+38:5845265:d=2014013112:APCP:surface:48-51 hour acc fcst:
+169:27307912:d=2014013112:APCP:surface:48-54 hour acc fcst:
+241:38023016:d=2014013112:APCP:surface:54-57 hour acc fcst:
+46:6631404:d=2014013112:APCP:surface:54-60 hour acc fcst:
+295:47541160:d=2014013112:APCP:surface:60-63 hour acc fcst:
+202:31889030:d=2014013112:APCP:surface:60-66 hour acc fcst:
+177:27816463:d=2014013112:APCP:surface:66-69 hour acc fcst:
+75:11906265:d=2014013112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014013112:APCP:surface:0-3 hour acc fcst:
+2:126343:d=2014013112:APCP:surface:0-6 hour acc fcst:
+3:202392:d=2014013112:APCP:surface:6-9 hour acc fcst:
+4:326807:d=2014013112:APCP:surface:6-12 hour acc fcst:
+5:401521:d=2014013112:APCP:surface:12-15 hour acc fcst:
+6:524568:d=2014013112:APCP:surface:12-18 hour acc fcst:
+7:598110:d=2014013112:APCP:surface:18-21 hour acc fcst:
+8:658404:d=2014013112:APCP:surface:18-24 hour acc fcst:
+9:732496:d=2014013112:APCP:surface:24-27 hour acc fcst:
+10:856558:d=2014013112:APCP:surface:24-30 hour acc fcst:
+11:931137:d=2014013112:APCP:surface:30-33 hour acc fcst:
+12:1054412:d=2014013112:APCP:surface:30-36 hour acc fcst:
+13:1127994:d=2014013112:APCP:surface:36-39 hour acc fcst:
+14:1248170:d=2014013112:APCP:surface:36-42 hour acc fcst:
+15:1319857:d=2014013112:APCP:surface:42-45 hour acc fcst:
+16:1441259:d=2014013112:APCP:surface:42-48 hour acc fcst:
+17:1513967:d=2014013112:APCP:surface:48-51 hour acc fcst:
+18:1573517:d=2014013112:APCP:surface:48-54 hour acc fcst:
+19:1646744:d=2014013112:APCP:surface:54-57 hour acc fcst:
+20:1706048:d=2014013112:APCP:surface:54-60 hour acc fcst:
+21:1778136:d=2014013112:APCP:surface:60-63 hour acc fcst:
+22:1836430:d=2014013112:APCP:surface:60-66 hour acc fcst:
+23:1908013:d=2014013112:APCP:surface:66-69 hour acc fcst:
+24:1966838:d=2014013112:APCP:surface:66-72 hour acc fcst:
+1:0:d=2014013112:APCP:surface:0-3 hour acc fcst:
+2:390083:d=2014013112:APCP:surface:3-6 hour acc fcst:
+3:682696:d=2014013112:APCP:surface:6-9 hour acc fcst:
+4:1105269:d=2014013112:APCP:surface:9-12 hour acc fcst:
+5:1430372:d=2014013112:APCP:surface:12-15 hour acc fcst:
+6:1885435:d=2014013112:APCP:surface:15-18 hour acc fcst:
+7:2210538:d=2014013112:APCP:surface:18-21 hour acc fcst:
+8:2535641:d=2014013112:APCP:surface:21-24 hour acc fcst:
+9:2860744:d=2014013112:APCP:surface:24-27 hour acc fcst:
+10:3283317:d=2014013112:APCP:surface:27-30 hour acc fcst:
+11:3608420:d=2014013112:APCP:surface:30-33 hour acc fcst:
+12:4030993:d=2014013112:APCP:surface:33-36 hour acc fcst:
+13:4356096:d=2014013112:APCP:surface:36-39 hour acc fcst:
+14:4778669:d=2014013112:APCP:surface:39-42 hour acc fcst:
+15:5103772:d=2014013112:APCP:surface:42-45 hour acc fcst:
+16:5526345:d=2014013112:APCP:surface:45-48 hour acc fcst:
+17:5883938:d=2014013112:APCP:surface:48-51 hour acc fcst:
+18:6241531:d=2014013112:APCP:surface:51-54 hour acc fcst:
+19:6599124:d=2014013112:APCP:surface:54-57 hour acc fcst:
+20:6956717:d=2014013112:APCP:surface:57-60 hour acc fcst:
+21:7314310:d=2014013112:APCP:surface:60-63 hour acc fcst:
+22:7671903:d=2014013112:APCP:surface:63-66 hour acc fcst:
+23:8029496:d=2014013112:APCP:surface:66-69 hour acc fcst:
+24:8387089:d=2014013112:APCP:surface:69-72 hour acc fcst:
+12 cycle
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo timselsum: Processed 6238080 values from 1 variable over 24 timesteps ( 0.21s )
+[unset]: _pmii_alps_init: dlopen of libalpsutil.so returned with error: libalpsutil.so: cannot open shared object file: No such file or directory
+cdo splitsel: Processed 779760 values from 1 variable over 3 timesteps ( 0.09s )
